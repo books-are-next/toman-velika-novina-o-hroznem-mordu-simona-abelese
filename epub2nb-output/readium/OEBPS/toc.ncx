@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Veliká novina o hrozném mordu Šimona Abelese</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Šimon Albrecht 0.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Šimon Abeles 0.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Šimon Albrecht 1.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Šimon Abeles 1.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Šimon Albrecht 2.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Šimon Abeles 2.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Šimon Albrecht 3.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Šimon Abeles 3.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Šimon Albrecht 4.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Šimon Abeles 4.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Šimon Albrecht 5.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Šimon Abeles 5.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Šimon Albrecht 6.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Šimon Abeles 6.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Šimon Albrecht 7.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Šimon Abeles 7.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Šimon Albrecht 8.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Šimon Abeles 8.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Šimon Albrecht 9.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Šimon Abeles 9.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Šimon Albrecht 10.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Šimon Abeles 10.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Šimon Albrecht 11.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Šimon Abeles 11.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Šimon Albrecht 12.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Šimon Abeles 12.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Šimon Albrecht 13.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Šimon Abeles 13.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Šimon Albrecht 14.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Šimon Abeles 14.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Šimon Albrecht 15.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Šimon Abeles 15.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Šimon Albrecht 16.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Šimon Abeles 16.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Šimon Albrecht 17.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Šimon Abeles 17.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Šimon Albrecht 18.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Šimon Abeles 18.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Šimon Albrecht 19.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Šimon Abeles 19.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Šimon Albrecht 20.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Šimon Abeles 20.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-42"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Šimon Albrecht 21.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-43"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Šimon Abeles 21.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-44"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Šimon Albrecht 22.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-45"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Šimon Abeles 22.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-46"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Šimon Albrecht 23.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-47"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Šimon Abeles 23.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-48"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Šimon Albrecht 24.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-49"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Šimon Abeles 24.</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-50"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Naposledy Šimon</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-51"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Naposledy Herman</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-52"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Poznámka</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_007.xhtml#_idParaDest-53"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Doslov</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-54"/>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Případ Šimona Abelese</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Z náboženské nenávisti, z náboženské lásky</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Pražská židovská obec v době zvýšeného náboženského nátlaku</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Smrt Šimona Abelese a domácí napětí</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Případ Šimona Abelese jako legenda a právní kauza</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-59"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Misionáři a pohané</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-60"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Židovské konverze</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-61"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Média v době Šimona Abelese</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-62"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Šimon Abeles den po dni</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-63"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Kdo byl Šimon Abeles a ti druzí</text>
+        </navLabel>
+        <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-64"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Použitá literatura</text>
+      </navLabel>
+      <content src="Text/velika_novina_o_hroznem_mordu_simona_abelese_009.xhtml#_idParaDest-65"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,349 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Veliká novina o hrozném mordu Šimona Abelese",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Marek Toman",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-09-22T00:00:00.000Z",
+    "published": "2021-09-17T07:15:32.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_010.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_velika_novina_o_hroznem_mordu_simona_abelese.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Šimon Albrecht 0.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Šimon Abeles 0.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "Šimon Albrecht 1.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "Šimon Abeles 1.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "Šimon Albrecht 2.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "Šimon Abeles 2.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "Šimon Albrecht 3.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "Šimon Abeles 3.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "Šimon Albrecht 4.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "Šimon Abeles 4.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "Šimon Albrecht 5.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "Šimon Abeles 5.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "Šimon Albrecht 6.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "Šimon Abeles 6.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "Šimon Albrecht 7.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "Šimon Abeles 7.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "Šimon Albrecht 8.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "Šimon Abeles 8.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "Šimon Albrecht 9.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "Šimon Abeles 9.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "Šimon Albrecht 10.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "Šimon Abeles 10.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "Šimon Albrecht 11.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "Šimon Abeles 11.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-24"
+    },
+    {
+      "title": "Šimon Albrecht 12.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "Šimon Abeles 12.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "Šimon Albrecht 13.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-27"
+    },
+    {
+      "title": "Šimon Abeles 13.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-28"
+    },
+    {
+      "title": "Šimon Albrecht 14.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "Šimon Abeles 14.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "Šimon Albrecht 15.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "Šimon Abeles 15.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "Šimon Albrecht 16.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-33"
+    },
+    {
+      "title": "Šimon Abeles 16.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "Šimon Albrecht 17.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "Šimon Abeles 17.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "Šimon Albrecht 18.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "Šimon Abeles 18.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-38"
+    },
+    {
+      "title": "Šimon Albrecht 19.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-39"
+    },
+    {
+      "title": "Šimon Abeles 19.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-40"
+    },
+    {
+      "title": "Šimon Albrecht 20.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-41"
+    },
+    {
+      "title": "Šimon Abeles 20.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-42"
+    },
+    {
+      "title": "Šimon Albrecht 21.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-43"
+    },
+    {
+      "title": "Šimon Abeles 21.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-44"
+    },
+    {
+      "title": "Šimon Albrecht 22.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-45"
+    },
+    {
+      "title": "Šimon Abeles 22.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-46"
+    },
+    {
+      "title": "Šimon Albrecht 23.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-47"
+    },
+    {
+      "title": "Šimon Abeles 23.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-48"
+    },
+    {
+      "title": "Šimon Albrecht 24.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-49"
+    },
+    {
+      "title": "Šimon Abeles 24.",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-50"
+    },
+    {
+      "title": "Naposledy Šimon",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-51"
+    },
+    {
+      "title": "Naposledy Herman",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_006.xhtml#_idParaDest-52"
+    },
+    {
+      "title": "Poznámka",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_007.xhtml#_idParaDest-53"
+    },
+    {
+      "title": "Doslov",
+      "children": [
+        {
+          "title": "Případ Šimona Abelese",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Z náboženské nenávisti, z náboženské lásky",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "Pražská židovská obec v době zvýšeného náboženského nátlaku",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Smrt Šimona Abelese a domácí napětí",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "Případ Šimona Abelese jako legenda a právní kauza",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "Misionáři a pohané",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "Židovské konverze",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "Média v době Šimona Abelese",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "Šimon Abeles den po dni",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-63"
+        },
+        {
+          "title": "Kdo byl Šimon Abeles a ti druzí",
+          "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-64"
+        }
+      ],
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_008.xhtml#_idParaDest-54"
+    },
+    {
+      "title": "Použitá literatura",
+      "href": "OEBPS/Text/velika_novina_o_hroznem_mordu_simona_abelese_009.xhtml#_idParaDest-65"
+    }
+  ]
+}
