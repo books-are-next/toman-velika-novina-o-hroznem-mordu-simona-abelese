@@ -2,10 +2,9 @@
 contentType: prose
 ---
 
-NIC TAK TEMNÉHO  
+_NIC TAK TEMNÉHO  
 NEZAŠLO,  
 ABY NA SVĚTLO  
-NEVYŠLO.   
- 
+NEVYŠLO._  
 
 Inquisitorní process, 1696
