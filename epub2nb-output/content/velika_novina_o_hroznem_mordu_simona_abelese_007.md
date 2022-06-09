@@ -4,8 +4,6 @@ contentType: prose
 
 Poznámka
 
-  
-
 Děkuji za důvěru a vstřícnost všem, kdo mi umožnili nahlédnout do příběhu Šimona Abelese na základě svých znalostí a dobré vůle, tedy Marii Vachenauerové, autorce knihy _Der Fall Simon Abeles_, Štěpánu Filipcovi z kostela Panny Marie před Týnem, Petru Velemínskému z Národního muzea, Vladimíru Matinovi z Policie ČR, Jiřímu Šindelářovi z firmy Geo-cz, Aleně Cypriánové z oddělení soudního lékařství Nemocnice Na Bulovce, Miluši Dobisíkové z Antropologického ústavu, Lubomíru Novotnému z Palackého univerzity, Danielu Soukupovi z Ústavu pro českou literaturu, Vivianě Falkové, Offeru Arbesovi a Davidu Kopřivovi.
 
 Poděkování za cenné rady ohledně formování příběhu a za kritické připomínky patří Lence Sobotové, Lence Pokorné, Lukáši Přibylovi, Ivetě Coufalové, Editě Vaníčkové Makosové a mým synům Danielovi a Samuelovi.

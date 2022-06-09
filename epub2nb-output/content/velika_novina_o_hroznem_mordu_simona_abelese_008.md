@@ -4,13 +4,9 @@ contentType: prose
 
 Doslov
 
-  
-
 Když byl v únoru r. 1694 obviněn Lazar Abeles z vraždy svého syna Šimona, započala se, dnešními slovy řečeno, „mediální kauza“. Rodinná tragédie nabrala od počátku senzační charakter, protože Lazar Abeles byl žid a Šimona prý sprovodil ze světa kvůli jeho touze stát se křesťanem. Náboženský kontext dodal případu mimořádnou závažnost. Proběhla exhumace chlapcova těla a začalo vyšetřování těch, kdo byli považováni za viníky, tedy Lazara Abelese a později Löbla Kurtzhandla. Příběh údajné náboženské vraždy vyvolal značný zájem veřejnosti, který sytily letáky, šířené v Čechách i za hranicemi. Šimon byl po okázalém obřadu pohřben jako mučedník v kostele Panny Marie před Týnem, Lazar Abeles podle úřední verze spáchal sebevraždu ve vězení a Löbla Kurtzhandla popravili. Celý příběh po staletí provázejí pochybnosti o tom, co se vlastně odehrálo. Jednotlivé varianty kolísají mezi mučednickou legendou, příběhem o neúmyslném zabití a případem justiční vraždy. To vše v souřadnicích doby, která se vyznačovala intenzivními pokusy přimět pražské židy, aby konvertovali ke křesťanství.
 
-Případ Šimona Abelese
-
-  
+### Případ Šimona Abelese
 
 Šimon Abeles zemřel v neděli 21. února 1694 v domě svého otce, obchodníka Lazara Abelese v pražském Židovském městě. Lazarovi bylo třicet pět let. Šimon bydlel také se svou šestadvacetiletou nevlastní matkou Leou a se dvěma nevlastními, mladšími sourozenci. K domácnosti patřila i třicetiletá kuchařka Hanele. Chlapec byl pohřben 22. února na nedalekém Starém židovském hřbitově.
 
@@ -26,9 +22,7 @@ Kurtzhandl byl zatčen, vyslýchán, a přestože nepřipouštěl svou vinu, od
 
 Šimona pohřbili v březnu 1694 za velkolepých ceremonií v Týnském chrámu. Místo jeho hrobu označuje dodnes epitaf, který uvádí, že Šimona zabil jeho otec kvůli chlapcově touze stát se křesťanem, tedy z náboženské nenávisti.
 
-Z náboženské nenávisti, z náboženské lásky
-
-  
+### Z náboženské nenávisti, z náboženské lásky
 
 Základním dobovým zdrojem informací je _Inquisitorní process_, shrnující záznamy výslechů, císařských a soudních výnosů, výpovědí a komentářů, který vyšel na příkaz císaře Leopolda I. v roce 1696. _Process_ se prostřednictvím výběru materiálů a jejich interpretací snaží ovlivnit čtenáře. Výpovědi obviněných zkracuje, Lazarovu povahu vykresluje jako zákeřnou a Leu chápe jako jeho oběť. Téhož roku také vyšla latinská zpráva jezuity Johanna Edera _Virilis constantia_, se stejnými myšlenkovými schématy a závěry, jež se vyskytují v _Processu._ Soustřeďuje se na postavu Šimona jako na pražského mučedníka, který prodělal cestu „od židovské pověry ke křesťanské víře“.
 
@@ -46,10 +40,8 @@ Antonín Novotný se soustředí ve _Staropražských sensacích_ z roku 1937 n
 
 Zmíněné texty vykreslují příběh Šimona Abelese jako nábožensky motivovanou vraždu, jako justiční vraždu, případně jako vzrušující, tajemný pražský příběh. Tyto základní perspektivy charakterizovaly přístup k osudu Šimona Abelese po staletí. Počínaje rokem 2000 vznikly studie, které přinášejí nová zjištění, zasazují příběh do širšího kontextu a umožňují formulovat přesvědčivější závěry.
 
-Pražská židovská obec v době zvýšeného  
+### Pražská židovská obec v době zvýšeného  
 náboženského nátlaku
-
-  
 
 Alexandr Putík ve své práci z roku 2000 _The Prague Jewish Community in the Late 17th and Early 18th Centuries_ charakterizuje dobu Šimona Abelese jako období vrcholících snah přimět pražské židy k přijetí křesťanství.
 
@@ -77,9 +69,7 @@ Případný návrat židovských konvertitů k judaismu byl nezákonný a tres
 
 Osud židovského donašeče Josela Passe, který stál na samém začátku abelesovského případu, se uzavřel jinak. Passe se při vyšetřování případu kupodivu nepodařilo přes opakované pokusy najít. Žil pak v Židovském městě dalších třicet let a pokřtili ho jako starce v roce 1726 (zřejmě v době, kdy už jeho „informátorských“ služeb nebylo potřeba).
 
-Smrt Šimona Abelese a domácí napětí
-
-  
+### Smrt Šimona Abelese a domácí napětí
 
 Elisheva Carlebachová začíná svou studii _The Death of Simon Abeles_ z roku 2001 popisem toho, jak byl člen významné pražské židovské rodiny L. Abeles v pátek 26. 2. 1694 (tedy pět dní po smrti svého syna) zatčen a v poutech uvězněn na Staroměstské radnici.
 
@@ -97,9 +87,7 @@ Při vyslýchání zatčených docházelo k jejich pravidelnému zastrašován�
 
 Podle Carlebachové sehrály ve vyšetřování Lazara Abelese neblahou roli dvě služebné, kuchařka Hanele a služebná ze sousedství Sára Uresinová. Sára byla zřejmě sirotek, službou v domácnostech si vydělávala na živobytí. Je možné, že Hanele a Sára, které se až dosud nacházely v podřízeném postavení, využily náhlé změny situace proti paní domu, soudí Carlebachová. Hanele byla v každém případě tím členem domácnosti Abelesových, jenž prolomil jejich dosavadní setrvávání na shodných výpovědích.
 
-Případ Šimona Abelese jako legenda a právní kauza
-
-  
+### Případ Šimona Abelese jako legenda a právní kauza
 
 Daniel Soukup se ve svých pracích zabýval vytvářením abelesovského mučednického mýtu, jak je patrný z vydání _Inquisitorního processu_ a z dalších publikací. Míra stylizace textů, které _Process_ shrnuje, je podle něj vysoká, především u výpovědí Lazara Abelese, jenž měl před čtenáři vystoupit jako negativní postava. Nelze vyloučit, že některé výpovědi zařazené do _Processu_ jsou fiktivní (Carlebachová ovšem soudí, že i když justice mohla rozhodovat na základě politické nebo náboženské objednávky, zápisy z výslechů se pořizovaly se svědomitou přesností).
 
@@ -119,9 +107,7 @@ Věnuje pozornost i úkazům spojeným se Šimonovým tělem, které po exhumac
 
 Konverze Löbla Kurtzhandla je pak legendárním závěrem celého abelesovského příběhu a jeho vyzněním. Klíčem k příběhu, jak ho vykládá _Inquisitorní process_, je totiž snaha o pochopení cest Boží prozřetelnosti, tedy toho, proč se jeden z pachatelů obrátil na pravou víru, zatímco druhý ne. Louthan popisuje obsah oratoria Cristofora Angela Rotonda _II neo-martire di Bohemia_, v němž Šimona vyvádějí jezuité z teologického zmatku, takže nakonec diskutuje s otcem Lazarem a s Löblem Kurtzhandlem o překonanosti Starého zákona Novým. V předmluvě autor oratoria vysvětluje, že bohatší polyfonní schéma staví do protikladu plnější chápání Bible u katolické církve oproti omezenému a chybnému pojetí Starého zákona židy. J. Eder považoval podle Louthana příběh Šimona Abelese za převratný moment v dějinách pražských židů a za počátek procesu, při němž se obrátí ke křesťanství celé Židovské město.
 
-Misionáři a pohané
-
-  
+### Misionáři a pohané
 
 Snaha přimět pražské židy v 17. století ke konverzi byla součástí širšího, světového kontextu. Kolonizace Nového světa znamenala nejen mocenský výboj, ale také duchovní expanzi. Důležitou roli zde sehráli misionáři, mimo jiné jezuité, mezi nimiž působila řada českých rodáků. Potýkali se s řadou dnes nepředstavitelných obtíží, které zachytili v dopisech zasílaných do řádových domů v Čechách. Na jihoamerické indiány v dopisech pohlíželi v lepším případě jako na děti.
 
@@ -133,9 +119,7 @@ Misionářské snahy, spočívající v budování vesnic ve španělském styl
 
 I v Jižní Americe se ovšem projevovalo politické soupeření evropských mocností. Vedle katolických Španělů a Portugalců se tam pokoušeli prosadit také Holanďané a Britové, z pohledu českých jezuitů protestantští kacíři. Narušovali působení jezuitů, protože na rozdíl od nich se neodříkali sňatků s domorodými ženami a dokázali se indiánské společnosti více přizpůsobit.
 
-Židovské konverze
-
-  
+### Židovské konverze
 
 Jednotlivé židovské konverze bývaly spojeny s jedinečným osobním příběhem. Počínaje středověkem se začal rozvíjet svébytný druh literatury, která je zachycuje. V některých případech stála na počátku vnitřního obratu argumentační zdatnost kněží, s nimiž se budoucí konvertita setkal. Jednalo se obvykle o mimořádné osobnosti, jež ho nějakým způsobem oslovily.
 
@@ -155,9 +139,7 @@ Známé jsou případy židovských intelektuálů, kteří se stali křesťansk
 
 Rozhodnutí konvertovat mohly ovlivnit rodinné vztahy. Mezi konvertity bývali podle E. Carlebachové často ti, kdo vyrůstali bez otce. Buďto byli sirotky, nebo jejich otec trávil hodně času mimo domov, případně prožívali s otcem nebo s židovskou obcí konfliktní vztah. Složité rodinné soužití mohl také zapříčinit druhý otcův sňatek. K typickému profilu mladého muže-konvertity E. Carlebachová řadí to, že pocházel z lépe situovaných vrstev a měl příležitost žít mimo obec, z níž pocházel. Profil Šimona Abelese odpovídá všem těmto charakteristikám.
 
-Média v době Šimona Abelese
-
-  
+### Média v době Šimona Abelese
 
 Mediální roli sehrávaly v Abelesově době příležitostné letáky. Knihtisk znamenal zásadní vynález a převrat v dosavadním šíření informací. Tiskařský lis byl pokládán za „zázrak rovný Božskému“ (Gerolamo Cardano) a knihtisk za „svaté umění“ (Mikuláš Kusánský). Teologové Martin Luther a Philipp Melanchton považovali knihtisk přímo za dar Boží. Jan Amos Komenský hovořil v r. 1650 o „jakési božskosti knih. Nemilovat je by byla urážka moudrosti, a tedy Boha Stvořitele…“
 
@@ -179,9 +161,7 @@ V roce 1694 připravil rytec Michael Störitz ilustrovaný leták, který popis
 
 V Amsterdamu vyšel roku 1695 také již zmíněný leták v jidiš. Nezpochybňuje vinu Lazara Abelese, ale vyzdvihuje jeho příkladný otcovský přístup k synovi, který chce odpadnout od víry. Leták se v popisu událostí drží jezuitské verze, a jak píše Daniel Soukup, snaží se o vytvoření antimýtu.
 
-Šimon Abeles den po dni
-
-  
+### Šimon Abeles den po dni
 
 Desetiletí studia věnovala případu Maria Vachenauerová a výsledky zúročila v knize _Der Fall Simon Abeles._ Nečerpala pouze z vydaného _Inquisitorního processu_, ale ponořila se i do mnoha dalších pramenů (korespondence pražského arcibiskupství, úředníků a lékařů; zápisy v kronikách křesťanských i židovských). Provedla také srovnání _Inquisitorního processu_ a zprávy _Virilis constantia._
 
@@ -229,9 +209,7 @@ František Maxmilián Hartman baron z Klarštejna, apelační rada a vyšetřu
 
 Kašpar Kupec, písař u apelačního soudu, byl povýšen na apelačního radu a zároveň přijat do šlechtického stavu. Nesl poté jméno Kupec z Bílenberka.
 
-Kdo byl Šimon Abeles a ti druzí
-
-  
+### Kdo byl Šimon Abeles a ti druzí
 
 O hlavním hrdinovi abelesovské legendy toho paradoxně víme (ve srovnání s jejími dalšími účastníky) nejméně. Známe jméno, obrysy jeho příběhu – a víc nic. I jeho věk se stal předmětem pochybností. Rozptyl skoro čtyř let znamená u dítěte hodně a ilustruje neurčitost Šimonova profilu. Zachovala se kresba chlapcova mrtvého těla. Existuje také mědirytina, která zobrazuje Šimona jako barokního kavalíra v paruce. Přes všechnu idealizaci portrétu lze předpokládat, že autor mohl chlapce vidět – jeho tělo přece bylo na Staroměstské radnici uchováváno řadu týdnů. Často publikovaná mědirytina Šimona v barokní paruce odpovídá olejomalbě v sakristii Týnského chrámu; Šimonovy rysy však spíše zamlžuje, než aby je vykreslovala.
 
@@ -255,18 +233,16 @@ Při psaní knihy jsem se pokoušel představit si, proč si Šimon mohl přát 
 
 Co se týká příběhu Šimona Albrechta, přidržím se osvědčené formulace romanopisců, že všechny postavy v tomto příběhu jsou fiktivní a jejich podobnost s realitou je čistě náhodná.
 
-Marek Toman, květen 2013 v Praze,  
-tři sta devatenáct let po smrti Šimona Abelese,  
-Lazara Abelese a Löbla Kurtzhandla
-
-  
+> Marek Toman, květen 2013 v Praze,  
+> tři sta devatenáct let po smrti Šimona Abelese,  
+> Lazara Abelese a Löbla Kurtzhandla
 
 Na závěr připojuji citát z Matoušova evangelia, který zřejmě inspiroval větu z úvodu _Inquisitorního processu_, již jsem použil jako motto své knihy:
 
-Žák není nad učitele ani sluha nad svého pána.
+> _Žák není nad učitele ani sluha nad svého pána._
 
-Stačí, aby žák byl jako jeho učitel a sluha jako jeho pán. Když hospodáře nazvali Belzebubem, čím spíše jeho čeleď!
+> _Stačí, aby žák byl jako jeho učitel a sluha jako jeho pán. Když hospodáře nazvali Belzebubem, čím spíše jeho čeleď!_
 
-Nebojte se jich tedy; neboť není nic zahaleného, co nebude jednou odhaleno, a nic skrytého, co nebude poznáno.
+> _Nebojte se jich tedy; neboť není nic zahaleného, co nebude jednou odhaleno, a nic skrytého, co nebude poznáno._
 
-Bible – český ekumenický překlad
+> Bible – český ekumenický překlad
