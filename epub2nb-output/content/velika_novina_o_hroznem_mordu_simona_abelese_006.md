@@ -2,15 +2,17 @@
 contentType: prose
 ---
 
-Šimon Albrecht 0.
+<section>
+
+## Šimon Albrecht 0.
 
 Sedí natolik zpříma, až se jeho záda nedotýkají opěradla, a nespouští pohled z monitoru. S jednou rukou na myši, s druhou na klávesnici. Svaly má napjaté, jako by měl každou chvíli vyskočit. Jeho tvář v bledém přísvitu zpopelavěla, zato oči se v odlesku monitoru rozehrály. Zpoza rohu budovy vyběhne voják s namířeným samopalem. Pohybem myši ho dostane do zaměřovače, ucítí vlnu vzrušení a zároveň zvláštní klid. Mohl by být tím vojákem, ovšem teď patří k druhé straně. Ukazovákem stiskne levé tlačítko. Obraz se ale zachvěje, výhled mu zkropí kapky krve. Voják asi stačil vystřelit, než se zhroutil. On sám byl zraněn jen lehce, protože hra pokračuje.
 
-Šimon Abeles 0.
+## Šimon Abeles 0.
 
 V cizím kabátě jde po ulici a připadá si, jako by se po něm každý díval. Pořád ještě se může vydat zpátky, ale stejně už je rozhodnuto. Všechno bude záležet na prvním setkání. Opakuje si slova, která tomu člověku řekne. Snaží se vybavit si hudbu, která ho přivedla až sem, jenže slyší jenom své podrážky, jak pleskají o ledovou dlažbu. Naprázdno polkne. V uších mu tepe krev, protože si uvědomuje, že hranici své čtvrti už nechal za sebou. Snaží se nedívat na ostatní chodce. Kdyby se začal chovat nápadně, mohli by ho odhalit. Cítí, že ukradený kabát je mu příliš velký. Jako by po ulici kráčel jenom ten kabát a on se ho pokoušel vyplnit.
 
-Šimon Albrecht 1.
+## Šimon Albrecht 1.
 
 Ladislavovi se od chvíle, kdy vešel do bytu, něco nezdálo. Syn za sebou přece při příchodu nezamykal. Sehnul se při zouvání, ale pak zvedl hlavu, aby se podíval k jeho pokoji. Očekával obvyklý obrázek: Šimonovu tvář z profilu, bledě ozářenou svitem monitoru. Uviděl jenom temný obdélník otevřených dveří. Udělal těch pár kroků navíc a rozsvítil, aby se přesvědčil, že tam opravdu není.
 
@@ -64,7 +66,7 @@ V kuchyni Ladislav naporcoval kuře, naložil si na talíř, přidal vychladlou
 
 Po pár minutách položil příbor, znovu vyšel na chodbu. Od bytu naproti ho dělilo v téhle čtvrti z přelomu devatenáctého a dvacátého století nanejvýš patnáct metrů, nevedla tu žádná hlavní třída, ale ulice určená k bydlení. Koruny stromů, které kdysi dávno vysadili při okraji chodníků, se teď nad vozovkou propojovaly. V tom bytě svítili ve druhém okně, kam Ladislav neviděl, protože větve mu bránily ve výhledu. Listí na nich sice chybělo, ale jak se pohybovaly v únorovém větru, vytvářely neprostupnou clonu.
 
-Šimon Abeles 1.
+## Šimon Abeles 1.
 
 Když služka oznámila Hermanovi, že ho hledá nějaký chlapec, sevřelo se mu srdce. Mohli za ním poslat pomocníka z tiskárny, stejně však ucítil předzvěst blížící se pohromy. Zbytečně příkře poručil Máří, ať hocha přivede. Za okamžik zaskřípaly schody. Herman se ještě stačil zhluboka nadechnout; rozhlédl se přitom po studovně, kde se vršily knihy jako důkaz jeho úspěchu.
 
@@ -170,7 +172,7 @@ Popadl svíci, natáhl nad ni vlasy, které se suchým praskotem vzplanuly; oho�
 
 „Dostříháme to pak,“ dodal Herman. Šimon si nasadil klobouk a bezradně s ním pootočil, protože mu byl velký. Položil na stůl vlásenky, které dosud svíral v pěsti.
 
-Šimon Albrecht 2.
+## Šimon Albrecht 2.
 
 Po kuřeti se Ladislavovi udělalo těžko. Pach mastnoty v místnosti mu navíc dráždil žaludek, ale nedokázal se přimět, aby alespoň umyl nádobí. Vrátil se k notebooku a s neurčitou nadějí, o níž věděl, že je nesmyslná, otevřel mailovou schránku. Znovu zkusil zavolat Šimonovi. Bez úspěchu.
 
@@ -260,7 +262,7 @@ Ladislav se zvedl od stolu.
 
 Z čekárny se neslo polohlasné nadávání vousáče na poměry, doplňované výpočty, po kolikáté mu už auto vykradli. Odbarvená žena, která čekala v chodbě, si Ladislava podezřívavě prohlédla. Vyšel ven s úlevou, která na chvíli převážila nad pocitem, že vlastně ničeho nedosáhl.
 
-Šimon Abeles 2.
+## Šimon Abeles 2.
 
 Šimon kráčel u Hermanova lokte, jako by byl pomocníkem z tiskárny, ani vedle něj, ani za ním. Upíral oči k zemi, občas kolem sebe střelil kradmým pohledem. Když se před nimi otevřel prázdný prostor Staroměstského rynku s nebem protknutým věžemi Týnského chrámu a radnice, zastavil se, jako by se bál jít dál. Obešli přitom Židovské město pěkně zeširoka a nyní se na rynek chystali vstoupit Sirkovou ulicí, která jej spojovala s Tandlmarktem, trhem poblíž kostela svatého Havla, kde měli své krámy židovští obchodníci. Herman si až opožděně uvědomil, že toutéž ulicí bezpochyby chodili i židé, když se sem chtěli dostat ze své čtvrti. Rychle se rozhlédl, ale v soumraku nezahlédl žádný židovský klobouk.
 
@@ -299,6 +301,10 @@ Vrátil se v myšlenkách ještě o něco dál do minulosti; do doby, kdy sám
 Pak si s leknutím uvědomil, že chlapce může někdo poznat. Židovských chodců potkali pomálu. Herman měl ve zvyku klopit před nimi zraky, ale teď se snažil rozeznat v jejich očích záblesk poznání. Ne, dvojici proti sobě přejížděli lhostejnými pohledy. Šimonova křesťanská podoba byla zřejmě dokonalá.
 
 V domovní chodbě je zaplavila příjemná vůně. Šimon naprázdno polkl. Na stěně hořela louč a mrazivá únorová temnota za okny teď vypadala jako temná voda, která zaplavila město až po střechy. _Tma jako v židově ranci_, napadlo ho úsloví, které slýchal v křesťanském městě. Dveře kuchyně vypustily ještě větší porci vůně, teplo a světlo.
+
+</section>
+
+<section>
 
 Ráno se Herman vplížil do studovny, kde chlapci ustlali na podlaze, aby mu sebral nové šaty. Oznámil zívající Máří, že jde na trh, a služka vykulila oči.
 
@@ -368,7 +374,7 @@ Vrazil Lee do ruky první výtisk, který v koši nahmátl. Krásný kancionál
 
 Vzdálený příbuzný Abelesových a domácí učitel Šimonův, Löbl Kurtzhandl, už byl nedaleko. Herman slyšel, jak Lee hlučně a zlostně oznamuje: „To se nestalo jen tak zbůhdarma, že se po našem hochovi slehla zem. Já mám stejně pocit, že ho někam uklidili tihle nevěřící.“ Dobře věděl, jak se křesťané dívají na židy, a dával si záležet, aby jim oplácel stejnou mincí. Lea ho spěšně odvedla od trhovkyň, které začaly poplašeně kvokat.
 
-Šimon Albrecht 3.
+## Šimon Albrecht 3.
 
 Ladislav se převaloval na lůžku; snažil se nepřeslechnout cvaknutí zámku ve dveřích. Jakmile zabral, vytrhl ho ze spánku pocit, že se v předsíni rozsvítilo. Pořádně usnout se mu podařilo až k ránu.
 
@@ -494,7 +500,7 @@ Jenže v krámu bylo najednou prázdno. Když Ladislav vyběhl ven, uviděl už
 
 Mimoděk zahlédl ve výloze i svou vlastní podobu. Mihl se tam shrbený chlápek s řídnoucími vlasy, s obličejem, ze kterého jako by se snažil vypudit jakýkoli výraz. Všiml si, že šaty na tom muži v odraze podivně visí, jako by si navlékl zapůjčený převlek. Přidal do kroku, aby byl co nejdříve v chrámu.
 
-Šimon Abeles 3.
+## Šimon Abeles 3.
 
 „Stojíš u pramene našeho budoucího bohatství!“ zvolal Bešonised. Bystrá očka mu jezdila sem a tam, v nadšení se popotahoval za bradku. Pak si složil ruce na úspěšně rostoucí břicho. Bešonised vypadal jako obrázek žida lačného peněz, jak si ho všichni představují, byl to však příkladný křesťan. Povolal si Hermana do svého kouta oficíny, za zády tiskaře zůstala kasa se sazbou i lis, kolem nějž se točili pomocníci a přitlačovali _šroubem_ papír na sazbu. Byla tu cítit tiskařská barva a schnoucí stránky.
 
@@ -598,7 +604,7 @@ Lea, uvědomil si. Přecenil ji, nebo ji spíše nepochopil. Opět. Takže za n�
 
 Máří v kuchyni hleděla před sebe. Přistoupila k Hermanovi, zaváhala, pak se mu s uplakanýma očima schoulila v náručí. Nešikovně ji objal. Už si nedokázal hrát na pána a na služku. Mnohokrát se jí chtěl dotknout, položit jí ruku na rameno, přejet jí prsty po vlasech, po tváři. Pokaždé ho přemohly obavy, že ohrozí svůj obraz křesťana. A také vzpomínka na Leu. Nebo spíše podivný pocit, že ji zrazuje. Pocit, o němž věděl, že je nesmyslný.
 
-Šimon Albrecht 4.
+## Šimon Albrecht 4.
 
 Ladislav se opřel do vrat Týnského chrámu, přesněji do vrat kostela Matky Boží před Týnem, jak ho několikrát opravili zástupci církve, když se výzkum dojednával. Takový byl totiž jeho správný název. Strměla nad ním zčernalá fasáda jako skalní stěna, pod níž člověka napadne, jestli se na něj nezřítí. Připomínala zkamenělý vodopád, který jako by se mohl dát každým okamžikem do pohybu. Stačilo vzhlédnout a zatočila se mu lehce hlava, protože náhle znejistěl, nevěděl, co je nahoře a co je dole; jako by ten vodopád mohl začít padat vzhůru. Vrata se nepohnula; na jejich ploše visela čtvrtka papíru s nápisem vytisknutým velkým fontem na počítači. Stálo na ní, že kvůli archeologickému výzkumu je kostel pro veřejnost na týden uzavřený. _WE ARE SORRY TO INFORM YOU…_, podával tutéž zprávu omluvnějším tónem anglický překlad.
 
@@ -742,7 +748,7 @@ Usadil se tehdy před jejím stanem a uvažoval, jestli to myslela vážně. Zn
 
 Později mu řekla, že si Bloody Mary objednala, aby vyzkoušela, jak Ladislav zareaguje. Už si nepamatoval, jak se tehdy zachoval. Ale asi obstál.
 
-Šimon Abeles 4.
+## Šimon Abeles 4.
 
 Herman stále chodil na tržiště na Staroměstském rynku s nadějí, že se dozví něco nového. Lovil útržky rozhovorů, ale slyšel pořád to samé. _Celer, půl libry, pět grošů, příliš drahé._ V sychravém únorovém dopoledni konečně zaslechl jiné slovo. _Mrtvý._ Mohli mluvit o zámožném měšťanovi, který se po dlouhém životě v lůně své obce, životě plném skutků zbožnosti i úspěšného obchodování, odebral na věčnost. To by v jejich slovech ovšem nebyl tón zděšení naředěný radostí ze vzrušující zprávy. Zastavil se u stánku, nepřítomně si prohlížel vystavenou zeleninu. Pak zaslechl _ten hoch_, s důrazem na slově _ten._ Zatočila se mu hlava, zastavil se. Znovu a znovu slyšel ta dvě slova.
 
@@ -762,6 +768,10 @@ Babice vytáhla promočenou tkaninu ze sudu a podezřívavě se rozhlédla, jak
 
 Herman už nemohl předstírat, že stojí u sudu jenom náhodou. Požádal o několik kousků. Trhovkyně mu zabalila těla ryb do starého letáku. Z hromádky, kterou měla při ruce, si vzal jeden list.
 
+</section>
+
+<section>
+
 _Hrozná zpráva o strašlivé kometě,  
 jež v nejbližší době roztříští Zemi na prach,  
 jak předpověděli slovutní fyzikové, astronomové  
@@ -770,6 +780,10 @@ z Němec, Francie a Španěl,
 ó děsme se, protože konec světa přichází,  
 za naše hříchy; ta strašná hvězda  
 vysaje vzduch, pošle na zem ohnivé snopy, a pak…_
+
+</section>
+
+<section>
 
 Herman mechanicky zhodnotil, jakou odvedla tiskárna práci. Vědce samozřejmě nezmínili jménem, určitě se jim náramně hodilo, že jsou z ciziny. Zato nešetřili výraznými přídavnými jmény, která v podobném letáku nemohla chybět – při líčení hrůzné budoucnosti se autorova fantazie mohla rozlétnout naplno a zaplnit stránku, jak bylo zapotřebí.
 
@@ -871,7 +885,7 @@ Herman zíral na Johanna. Kněz ho dostal tam, kde ho chtěl mít, jako pokažd�
 
 „Všichni o tom mluví, tak to asi bude pravda.“
 
-Šimon Albrecht 5.
+## Šimon Albrecht 5.
 
 Ladislav přejel v Šimonově pokoji prstem po klávesách počítače. S tichým cvakáním se podřizovaly jeho tlaku, ale monitor zůstával temný. Samozřejmě, i kdyby se tady syn mezitím nakrásně zastavil, mohl počítač zase vypnout.
 
@@ -949,6 +963,10 @@ Ozval se mobil, na displeji se objevilo neznámé číslo. Ladislav napůl oček
 
 Ladislav se napřímil na židli, pak vstal. Další kapitánova slova už slyšel se zpožděním, jako by se musela probojovávat proti záplavě naděje, která se vyvalila z nějakých utajených pramenů. Zhluboka se nadechl a pokusil se odpovídat tak, aby to dávalo smysl. Ne, syn se nevrátil. Žádné nové informace nemá. To, co uvedl do protokolu, nemůže nijak doplnit. Ano, pokusil se oslovit rodiče Šimonových spolužáků. Jestli by mohl přijít na oddělení kriminálky? Samozřejmě. Třeba teď hned. Zaklapl za sebou dveře bytu a nezdržoval se zamykáním.
 
+</section>
+
+<section>
+
 Kriminální oddělení se nacházelo v Ženských domovech, velké prvorepublikové budově Na Knížecí, která tehdy sloužila jako domov pro svobodné mladé ženy a dnes se z ní stal zřejmě také hotel, kasino a sídlo několika obchodů. Měla bohatě osvětlenou recepci, odkud se dalo jít i do wellnessu nebo do pobočky pojišťovny. Ladislav očekával, že se na něj recepční podívá zkoumavě, když jí vysvětlí, kam má namířeno. Poradila mu s profesionálním úsměvem, ze kterého se nedalo nic vyčíst. Vyjel výtahem do patra, na zvoncích našel kapitánovo jméno.
 
 Podlaha byla ze světlého nemocničního lina posetého zelenými, hnědými a černými tečkami. Napůl voněla, napůl páchla saponátem. Ladislav se snažil představit si, jak bude kapitán vypadat, ale z mnoha zvonků s dalšími jmény a hodnostmi, ani z bílých dveří s kulatou klikou nedokázal nic vyčíst.
@@ -1013,7 +1031,7 @@ Překvapeného Ladislava napadlo, jestli si snad kapitán nepřivydělává spol
 
 Ladislav souhlasil. Měl pocit, že stejně nemá na vybranou.
 
-Šimon Abeles 5.
+## Šimon Abeles 5.
 
 Bešonised uvítal Hermana v tiskárně širokým, povzbuzujícím úsměvem, dokonce mu vyšel vstříc od svého stolu, zavaleného návrhy tisků a dalšími listinami: „Byl tady otec Johann!“
 
@@ -1115,6 +1133,10 @@ Herman zavrtěl hlavou. Spolkl výčitky, které chtěl Johannovi říci, zasko�
 
 Herman vyšel z koleje s nejednoznačnými pocity. Připadal si, jako by získal možnost, jak se dozvědět, co se stalo Šimonovi. Zároveň v něm zůstal stín obav. Johann mu neřekl, co si myslí o Lazarově vině. Proč ho znovu zapojil do příběhu? Co od něj očekává? Jakou roli má Herman sehrát? Johann přece věděl, co si tiskař o snaze obvinit ze Šimonovy smrti Lazara myslí. Řekl vrátnému několik omluvných slov. S tlukoucím srdcem zamířil Platnéřskou ulicí na radnici za hejtmanem. Zimní odpoledne se rychle proměňovalo v mrazivý večer.
 
+</section>
+
+<section>
+
 Hejtman se zaklonil ve vyřezávaném křesle, aby si hosta prohlédl. Měl mohutné, módně nakadeřené vousy a působivé šaty, na nichž stříbro výšivky zářilo z temného sametu. Dřevem vykládaný strop nad ním násobil důstojný dojem, plynoucí z rozlehlé komnaty v prvním patře radnice. V dřevěném obložení stěn se odrážely plameny četných svící.
 
 „Výtečně,“ pronesl úsečně, aniž tiskaři nabídl židli. „Tak tě tu máme, mistře Hermane. Rád se setkávám s řádnými měšťany, kteří jsou oporou víry. A my navíc využijeme tvé, řekněme, mimořádné znalosti židovských bludů a způsobu života. Zajdeš za Šimonovým otcem a přesvědčíš ho, aby se přiznal, ať máme tuhle nechutnost co nejdřív z krku.“
@@ -1193,7 +1215,7 @@ Herman se na promrzlé ulici rozběhl, přestože na ledem pokrytých loužích 
 
 Chtěl přivolat Máří, ale nenapadlo ho, co by jí řekl. Pak se mu myšlenky zatoulaly k Lee. Stále znovu se před ním objevovala Laza­rova tvář.
 
-Šimon Albrecht 6.
+## Šimon Albrecht 6.
 
 „Mám ho pro tebe,“ oznámil mu Tomáš, sotva Ladislav přijal hovor.
 
@@ -1289,7 +1311,7 @@ A co hlavní vůdce, který zahynul? Ten, kterého zvolili, protože o to toli
 
 Jak by se asi na tuhle hru tvářil Šimon?
 
-Šimon Abeles 6.
+## Šimon Abeles 6.
 
 Herman stál u pultu a rovnal litery do sázítka. Výplně mezi literami se mu vzpíraly v prstech, jako by s nimi pracoval prvně. Když konečně natěsnal písmena mezi kraje, nedokázal vložit řádku do sazebnice. Sazba se mu rozpadala ještě dřív, než vůbec vznikla. Už dávno měla před ním ležet na sázecím prkně stažená provazem. Pomocník, který by na ni krouživými pohyby kožených kuželů nanesl barvu, lelkoval v rohu dílny.
 
@@ -1329,6 +1351,10 @@ Tiskař se postavil k pultu, ale už se ani nepokoušel pracovat. Ze zamyšlen�
 
 „Mistře. No tak. Přece bys nevěřil židovskému bludaření.“
 
+</section>
+
+<section>
+
 Herman nazítří procházel promrzlými ulicemi, co noha nohu mine. Nový plášť mu neseděl, co chvíli mu klouzal z ramene, látka ho svědila za krkem. Přitahoval si ho k tělu, a stejně mu skulinami, které nedokázal odhalit, pronikal na kůži chlad. Představoval si, co by se stalo, kdyby si na náledí zlomil nohu. Nosiči by ho dopravili domů. Návštěvu ranhojiče bych už nějak přetrpěl. A pak by se uvelebil v peřinách, nechal by si od Máří uvařit něco teplého a četl by si. Jako dítě rád stonal, protože nemusel do chederu. Jenže na dnešní schůzku by ho nejspíš odnesli i s oběma nohama vejpůl.
 
 Tentokrát zamířil jednou z forten do Židovského města. O šabatu dopoledne stejně nebude nikdo na ulici. Prošel Židovskou ulicí, které propojovala ghetto napříč, a minul třípatrový dům s arkýřem, kde kdysi bydlel Šimon. Nedokázal se podívat do oken. Před boční brankou židovského hřbitova postávalo několik mužů. Ten vedle Bedřicha z Kutenštejna měl šaty, které střihem nebyly nijak výjimečné. Teprve zblízka člověk zachytil lesk látky a pochopil její cenu. Klobouk se širokou střechou si neznámý stáhl do čela. „Lékař Václav Hynek Pavlovský,“ představil ho hejtman Hermanovi s obřadným gestem.
@@ -1353,11 +1379,19 @@ Za nimi, hned u branky, postávali dva hrobníci s lopatami. Nikdo jim nevěno
 
 „Rabín sedí schovaný doma. Kdyby byl co k čemu, přišel by sem a zatnul by jim žílu. Jenže je statečnej jako máslo na slunci, a všichni ostatní taky,“ odpověděl Wolf. Herman zachytil pohledem pár vět na náhrobku z růžového mramoru, stojícím vedle cestičky:
 
+</section>
+
+<section>
+
 _Zmizela radost srdce mého, syn můj  
 mladý a moudrý, cudný a skromný, milosrdný  
 lev, jenž byl vzat dřív, než dosáhl času naplnění,  
 hlas svůj pozvedám k pláči, kvílení a naříkání,  
 nechť duše jeho je svázána ve svazku živých._
+
+</section>
+
+<section>
 
 S leknutím se podíval na jméno nebožtíka. Ne, Šimonovi by těžko stihli vztyčit kámen. Pánové se rozestoupili kolem pahrbku, který se dosud nesesedl.
 
@@ -1493,7 +1527,7 @@ Hirš ho zavedl k hrobnickému domku, nechal ho stát venku a brzy se vrátil 
 
 Herman měl pocit, že se Hirš jenom bezděčně brání, ale když se na něj podíval, uviděl na jeho tváři zkoumavý, soustředěný výraz.
 
-Šimon Albrecht 7.
+## Šimon Albrecht 7.
 
 Ladislavovi zazvonil mobil, neznámé číslo na displeji ho přimělo nasucho polknout. Josef se dál díval na obrazovku počítače, jako by telefon neslyšel. Ladislav netušil, jestli se natolik ponořil do práce nebo jestli na něj bere ohledy.
 
@@ -1573,7 +1607,7 @@ Ladislav si se zpožděním uvědomil, že kostelník řekl _andílek._ Odešel 
 
 „Battle Church. Tak na to teda bacha,“ uklouzlo mu.
 
-Šimon Abeles 7.
+## Šimon Abeles 7.
 
 „Očekávám od tebe skvostný leták, mistře!“ oznámil mu Bešonised, sotva se Herman vrátil ze hřbitova do tiskárny.
 
@@ -1586,6 +1620,10 @@ Ladislav si se zpožděním uvědomil, že kostelník řekl _andílek._ Odešel 
 „Vždycky by to mohlo být ještě lepší. V tomhle se, myslím, lišíme, mistříčku. Trochu víc se tumluj, a uvidíš, jak tě bude život bavit.“
 
 Herman se postavil k sázecímu stolu. Litery ho studily do prstů, pod rukama se mu rodilo něco na způsob úmrtních cedulí, co se vylepovaly na roh kostela. Nemohl se zbavit vzpomínky na Šimona, jak před ním stál ve studovně. Tehdy v tom mrazivém, tichém odpoledni, kdy čekal, jak se Herman rozhodne. Jako by na sobě znovu cítil jeho tázavý pohled, rozpačitý i dychtivý; zároveň si uvědomoval, že Šimon má oči zapečetěné zmodralými víčky. Jeho text měl do senzačního letáku daleko. Herman ale nevytvořil nic jiného, co by Bešonisedovi mohl ukázat, a věděl, že impresor na jeho dílo netrpělivě čeká.
+
+</section>
+
+<section>
 
 _Chlapec Šimon Abeles  
 byl vyzdvižen ze svého hrobu na Židovském hřbitově  
@@ -1600,6 +1638,10 @@ Kéž by chlapec zůstal naživu, a ať už příčina smrti
 byla jakákoli,  
 važme si jeho odvahy zvolit si vlastní cestu.  
 Kdyby tak po ní mohl jít spolu s námi._
+
+</section>
+
+<section>
 
 Bešonised se natěšeně opřel v křesle ve svém koutě oficíny. Zvedl lejstro do výšky. Přelétl pohledem těch pár řádků, podíval se na Hermana, znovu na text, a konečně věnoval tiskaři nechápavou grimasu.
 
@@ -1633,6 +1675,10 @@ Herman si vzpomněl, jak ho kdysi děsil Kristus, jenž visel na kříži v př
 
 Možná měl pravdu. Co by se stalo, kdybych se Šimona neujal? uvažoval Herman. Nejspíš by dosud běhal s kamarády po dvorcích. Lazar by nebyl ve vězení, Lea by netrpěla… Mlčel. Impresor se na něj ještě chvíli vyčkávavě díval, dával mu další šanci, nakonec ale s povzdechem nakázal pomocníkovi, aby odnesl náčrt otci Johannovi. Chlapec se do půlhodiny vrátil s lejstrem popsaným elegantním rukopisem. Původní text, v prvních několika řádcích divoce přepsaný, pak škrtnutý jediným dlouhým tahem, k němu byl přiložený.
 
+</section>
+
+<section>
+
 _Velká novina o hrozném mordu, který spáchal Lazar  
 Abeles, žid pražský,  
 na vlastním synovi, dvanáctiletém Šimonu,  
@@ -1644,6 +1690,10 @@ Rána na spánku svědčí proti jeho vrahovi.
 Jediná surová rána chlapci srazila vaz, jak již víme.  
 Šimona dal milosrdně vykopat slovutný pan Bedřich  
 z Kutenštejna, hejtman…_
+
+</section>
+
+<section>
 
 Bešonisedovi se rozprostřel po tváři blažený úsměv: „Toho bych chtěl mít v tiskárně!“
 
@@ -1670,6 +1720,10 @@ Bešonisedovi se rozprostřel po tváři blažený úsměv: „Toho bych chtěl 
 Herman probral štočky, až našel obrázek andílka. Motivy květů se k němu hodily, Bešonised měl budoucí leták v oku. Ladislav začal sázet první řádku, která měla čtenáře navnadit. Na _V-e-l-i-k-o-u –_ _n-o-v-i-n-u_ použil tak mohutné litery, aby zaplnil řádek až k druhému okraji. Už nemyslel na Šimona, práce ho jako obvykle pohltila.
 
 Bešonised nad návrhem spokojeně přimhouřil oči, zatímco začal kalkulovat množství papíru, počet výtisků, cenu a pravděpodobný zisk.
+
+</section>
+
+<section>
 
 Máří přinesla Hermanovo dílo ráno z trhu. Položila ho před něj, poklepala na ně prsty. „Čtěte!“ přikázala. Tázavě se na ni podíval. Nemínila nic vysvětlovat. S odmlkami text tiše předrmolil.
 
@@ -1773,7 +1827,7 @@ Hermanovu pozornost přilákaly v kapli erby, které zdobily stěny. Na někter
 
 Jeho průvodce za ním těžkopádně sestupoval ze schodů, přitom ho oslovil: „Nemůžu se dočkat pokračování, mistře! Ten chlap vypadá úplně bezmocně, taková hromádka neštěstí to je. Člověk by skoro nevěřil, že mohl vyvést takovou ohavnost. Jo, lidi se nezdaj. Moje stará si váš leták pověsila v kuchyni, že prej bude mít památku na to klouče, co se tak statečně drželo. Jo, moc se jí líbily vobrázky, ty andělé, ty kytičky, člověk se potřebuje taky podívat na něco pěknýho, no ne?“
 
-Šimon Albrecht 8.
+## Šimon Albrecht 8.
 
 Ladislav se v chrámové lavici sklonil nad listem s Josefovými pokyny. V Battle Church si měl nejdřív vybrat svou postavu. Před očima mu defilovala řada rytířů, přilby si drželi na prsou; Ladislav obdivoval realistické rysy jejich tváří, jenom lehce zploštělé animací. Nad hlavami se objevily rámečky. Jména jako Hendrycus, Black Rider, Diabolo III., Chrustman, Panzer Johny, Petr Killer, Sir Grizzly přiměla Ladislava k úvahám, kdo jsou asi ti, kteří je vymysleli. Nedokázal si představit nikoho jiného než kluky ze základní školy.
 
@@ -1849,7 +1903,7 @@ Stačil mu jediný pohled do kaple, aby zjistil, že dělníci ještě neuvolnil
 
 Vytáhl papír, na nějž si vytiskl kontakty na rodiče, které mu poslal ředitel. Vyhledal jméno, na něž se při prvním pokusu nedovolal. Hovor přijala nějaká žena a vzápětí se podezřívavě zeptala, s kým mluví. Po Ladislavově vysvětlení se odmlčela. Uslyšel zvuk kroků. „Zase seš na tom pitomým počítači?“ zeptala se naléhavě, ale Ladislav rozeznal v jejím hlase bezmoc. Pokoušel se zaslechnout, co odpověděl její syn. Zaslechl jenom nezřetelné mumlání, představil si Šimona, který mu také dokázal odpovídat, jako by ho bolely zuby. „Nic o něm neví,“ řekla žena stručně, se zřejmou snahou co nejrychleji rozhovor ukončit.
 
-Šimon Abeles 8.
+## Šimon Abeles 8.
 
 „Lazar by měl uvážit, jak do jeho osudu zasáhla Boží ruka. Zbavit se strachu z utrpení a zapátrat, proč se mu to všechno stalo. Jeho strádání je totiž zároveň příležitostí, aby si vybral pravou cestu,“ uvažoval otec Johann nahlas. Dosud se Hermana nezeptal, proč za ním přišel.
 
@@ -1983,7 +2037,7 @@ Rozutekli se do různých stran, po dvou, po třech mizeli v uličkách. Viděl
 
 O setkání s rabínem Herman Lazarovi radši neřekl. Vězeň vytáhl z košíku knihy z Bešonisedovy tiskárny a rozprostřel je po slámě. Mlčky po nich přejížděl roztřesenými prsty, na zápěstích mu cinkaly řetězy. Okénkem u stropu pronikalo dovnitř šedé světlo zimního odpoledne, které stačilo právě jen k tomu, aby člověk rozeznal litery. Když Herman podal Lazarovi sametový váček, který přinesl schovaný na těle, vězeň po něm dychtivě natáhl ruku.
 
-Šimon Albrecht 9.
+## Šimon Albrecht 9.
 
 „Nějaké novinky o Šimonovi?“ zeptal se Tomáš před kostelní lavicí, jakmile k němu antropolog přistoupil poté, co zaklapl notebook s hrou. Ladislav si na okamžik nebyl jistý, na koho se vlastně ptá. Pak zavrtěl hlavou.
 
@@ -2111,7 +2165,7 @@ Ladislavovi vypluly před očima její noviny, vytištěné velkými písmeny a�
 
 Vykoktal něco, co se dalo považovat za omluvu. Novinářka vytáhla vizitku, vložila mu ji do ruky. „Jsem ráda, že se nevidíme naposledy. Spojení na vás už mám, vedení ústavu mi poskytlo všechny základní informace. Volat mi nemusíte, zastavím se,“ sjela Ladislava pohledem a přetáhla si přes ústa vlňák. Potom si nasadila kapuci. Ladislava zarazila její podoba s dívkou, již potkal před domem, ale to už se novinářka otočila a zamířila k východu z chrámu.
 
-Šimon Abeles 9.
+## Šimon Abeles 9.
 
 Herman se vracel z návštěvy Lazara s hlavou sklopenou. Když procházel kolem svatojakubského kostela, zasáhlo ho několik taktů varhanní hudby. Nástroj zrovna zněl basovými píšťalami. Hudba chroptěla, bortila se, znovu se sbírala, aby vystoupila tam, kde jí problesknou vysoké tóny. Tiskař se zastavil. Stál před otevřenými vraty, a nedokázal vstoupit, ačkoli teď už mu v tom nic nebránilo. Kromě vzpomínky na okamžik, který změnil celý jeho život.
 
@@ -2309,6 +2363,10 @@ Herman položil popsané archy Bešonisedovi na stůl. Impresor zavrčel, že o�
 
 Herman musel jeho umění chtě nechtě obdivovat. Se všemi přídavnými jmény dostal jezuita čtenáře přesně tam, kam chtěl.
 
+</section>
+
+<section>
+
 _Zlořečenému židovi Lazarovi, co hnusně zabil  
 svého syna,  
 našeho mučedníka Šimona Abelese,  
@@ -2332,6 +2390,10 @@ nevidoucí
 jas našeho Pána, který mu otevírá svou náruč.  
 Politujme tu ztracenou duši!  
 Modleme se za ni, aby byla vyvedena z bludu!_
+
+</section>
+
+<section>
 
 Lazar i při dalším dotazování zopakoval, že Šimona nezabil. Herman se co chvíli musel dívat na kata, který nezúčastněně seděl vedle svého stolku. Lazar tím směrem nepohlédl ani jednou.
 
@@ -2359,6 +2421,10 @@ Lazar ze sebe po chvíli váhání vypravil: „Šimon…,“ ale vzápětí se 
 
 Hejtman několikrát kývl hlavou, Pavlovský přidal úklonu, která působila spíše zdvořile než souhlasně.
 
+</section>
+
+<section>
+
 _A pak, když před něj bylo položeno  
 mrtvé tělo nebohého chlapce,  
 s životem při pitvě rozříznutým  
@@ -2367,6 +2433,10 @@ který přinese chlapci vykoupení,
 jakož i nám, s ním vírou spojeným,  
 tehdy ztratil řeč a začal blábolit, koktat, ba zalykat se  
 doznáním svého ohavného skutku._
+
+</section>
+
+<section>
 
 Herman stál v oficíně před Bešonisedem a obracel v rukou list papíru. „Na leták je to trochu krátké, ne?“
 
@@ -2468,6 +2538,10 @@ Dotazování pokračovalo, dokud Ebelin nepronesl: „Tak tedy… necháme obža
 
 „Našimi mučidly je čas. Po tom, co uslyšel od Sáry, Lazar musí vědět, že nemá šanci. – Je všechno řádně zapsáno?“ obrátil se Ebelin na Hermana. „Hlavně to, jak se dovolával ďábla?“ Herman přikývl. Pochopil, že Lazarova zoufalá slova znovu hrají proti němu. Nemohl s tím nic dělat. Svíral v prstech text, který Lazarovi nijak nepomůže.
 
+</section>
+
+<section>
+
 _Nevinná panna, růže v rozpuku,  
 dívenka Sára Uresinová,  
 kterou Boží milost vyvedla  
@@ -2480,9 +2554,13 @@ cestu do soudní místnosti? Zázrakem – přivedl ji
 tam anděl,  
 ten okřídlený posel Božího vnuknutí._
 
+</section>
+
+<section>
+
 Herman si přečetl návrh textu dalšího letáku. Tvrdit, že služka přišla do soudní síně sama od sebe? Může tomu někdo věřit? Anebo že Šimonova záda byla modrá od bití, když se dosud o žádném takovém zranění na jeho těle nepsalo? Potom si představil, jak leták naváže na veškeré předcházející, a náhle si uvědomil, jak silný je ten příběh – i když s příběhem Šimona Abelese nemusí mít nic společného. A napadlo ho, že ani tvrzení z předchozích letáků nikdo nezpochybnil.
 
-Šimon Albrecht 10.
+## Šimon Albrecht 10.
 
 Ladislav slezl do otevřené krypty, aby pomohl Tomášovi s klasifikací nálezů. Vyzvedávali ze změti jednu kost po druhé, věnovali se především lebkám. Po rozhovoru s kapitánem a s novinářkou Ladislav s úlevou zjišťoval srůsty lebečních švů. Připadalo mu, že při své práci se může dozvědět něco, co není jen dohad. Zkoumal také, nakolik se prořezaly zuby v čelistech. A zabýval se tím, jak pokročily srůsty u pánví. Tak jako u lebek, i tady byl jejich vývoj důležitý pro určení věku zemřelých. Jakmile pořídili fotodokumentaci, srovnali několik skoro kompletních koster do fyziologické polohy. Ladislava nepřekvapilo, že ostatky odpovídající Šimonu Abelesovi v hrobce nebyly.
 
@@ -2527,6 +2605,10 @@ Ladislav vytáhl mobil, najel na číslo Mary a přitom zjistil, že si ho poř
 „Neboj se o něj,“ řekla mu nečekaně mile, než zavěsila. Ladislava na okamžik napadlo, jestli k němu Mary přece jenom ještě něco necítí. Vyšel na chodbu a opřel se čelem o sklo balkonových dveří. Vzápětí se mu vybavilo, jak odsud sledoval odjezd Mary s jejím přítelem. Přijel pro ni v době, kdy už bylo jasné, že se s Ladislavem rozcházejí, ale kdy ještě bydleli spolu. Uslyšel ji, jak sbíhá po schodech, pak uviděl, jak drobnými kroky doběhla k autu. Naklonila se k okénku řidiče tak prudce, až ho bodlo u srdce. Její úsměv neviděl, ovšem podle toho, s jakou energií se sehnula, si ho dokázal představit.
 
 Vlastně neviděl, co se odehrálo, nezahlédl ani polibek, ani řidiče, ale zamrazilo ho, protože si uvědomil, jak je to nové pouto silné. Auto se rychle, elegantně odpíchlo od chodníku. Byla to nějaká drahá značka, něco mezi terénním vozem a limuzínou. Ladislava při pohledu na lesklou střechu vozu zasáhl pocit životní prohry, která se zdaleka netýkala jenom Mary. Žil tehdy v představách, jak se bude věnovat Šimonovi. Starostlivou péčí o syna chtěl vrátit situa­ci do normálu, smazat chyby, které udělal, nahradit nepřítomnost Mary. Během pár týdnů začal pravidelně vařit teplé večeře, protože přitom dokázal zapomenout na synovy úsečné odpovědi věnované monitoru.
+
+</section>
+
+<section>
 
 V ranním proudu studentů, který nazítří mizel ve vchodu do Šimonovy školy, si opět připadal nepatřičně. Snad ještě víc než při první návštěvě. Záviděl jim, jak se uvolněně pohupují, se svými batůžky a s kšiltovkami, se sluchátky v uších, která jim nebránila v rozhovorech, v úzkých džínách, ve sportovních botách. Najednou si uvědomil, jak jsou jeho šaty obnošené. Žádný ze studentů se na něj nepodíval, neukazovali si na něj a nestrkali do sebe loktem – ale právě to bylo varovné. Jako by sice kráčel mezi nimi, ale neexistoval.
 
@@ -2646,7 +2728,7 @@ Popisovala to cynicky, ale antropologa napadlo, jestli se jenom nebrání tíze 
 
 Váhal, jestli slyší v jejím hlase stopu omluvy. Lavice zaskřípala, když si sedli. Ladislav se nadechl vlhké vůně dřeva, laku a lidských doteků, které na ní ulpěly v průběhu staletí. Rukáv jejího kabátu se otřel o ten jeho. Zdálo se mu, jako by ucítil její teplo, a překvapilo ho, nakolik byl ten pocit příjemný.
 
-Šimon Abeles 10.
+## Šimon Abeles 10.
 
 Když pro Hermana přišel domů biřic místo poslíčka, pochopil, že ho čeká něco zvláštního.
 
@@ -2730,6 +2812,10 @@ Postavil se k sázecímu pultu a začal připravovat leták. Musel se podobat 
 
 Slova se mu sama skládala z liter, jako by vyprávěl ten příběh Máří v kuchyni. Ozdobil text motivy holubiček, květů a hvězd, přidal Spravedlnost s váhami a se zavázanýma očima, nechybělo kolo na kůlu, do kterého se vplétají odsouzenci na popravišti. Čtenář se nejlépe zaujme, pokud se dojme, a nejsnáze se dojme, když se začne bát. A bát se bude, pokud si představí, že by se něco podobného mohlo stát jemu. Přesně jak to Bešonised Hermana učil.
 
+</section>
+
+<section>
+
 _Zabil se Lazar a přiznal se tím, anebo  
 spáchal samovraždu ze zoufalství?  
 Zranění na spánku nebohého Šimona  
@@ -2744,6 +2830,10 @@ vyvolán jinou obavou než z trestu,
 třeba úděsem, že nedokáže svou nevinu.  
 Ustrň se, laskavý čtenáři, nad jeho duší  
 a představ si, že by ses ocitl v podobných osidlech…_
+
+</section>
+
+<section>
 
 Teď bylo třeba leták vytisknout, přestože neprošel Bešonisedovýma rukama. Herman si uvědomil, že jestli chce podvádět, musí být důsledný, a napodobil impresorův klikyhák. Podepsaný text spolu s hotovou sazbou předal pomocníkům.
 
@@ -2775,7 +2865,7 @@ Herman pokrčil rameny. Bešonides si povzdechl a zavolal pomocníky, kteří s
 
 Herman se po cestě domů rozhlížel kolem sebe, pozoroval služky, nosiče, pány v pláštích z drahocenných látek, kluky, kteří se honili po ulici. Čekal, že někdo bude číst jeho leták – zaujatě, dojatě, rozhněvaně, jenže nic takového nespatřil. Místo toho zaslechl vzrušené rozhovory o Šimonově nadcházejícím pohřbu.
 
-Šimon Albrecht 11.
+## Šimon Albrecht 11.
 
 „Značku těch džínsů asi neznáte, co?“
 
@@ -2857,7 +2947,7 @@ _Otec představený nám přinesl úhledně vypravenou francouzskou knížku �
 
 Ladislavovi se rozbušilo srdce. Teprve když do vozu vstoupil výpravčí s červenou čepicí v ruce, Ladislav si uvědomil, že vlak je ve stanici Letňany, kde má konečnou, a zvedl se ze sedadla.
 
-Šimon Abeles 11.
+## Šimon Abeles 11.
 
 V ten den na začátku jara Herman cestou na Staroměstský rynek ucítil, jak sluneční paprsky od zimy zesílily. Opíraly se do střech, fasád a dlažby zpříma, i křivolaké zdi nedalekého Židovského města vypadaly o něco méně stísněně a ponuře. Když se nemusel vyhýbat loužím, nastavoval slunci s přivřenýma očima tvář. Brzy si však uvědomil zvláštní náladu, plnou očekávání, která kolem něj panovala. Pramenila už z toho, že všichni chodci kráčeli stejným směrem jako on. Byli v černém – s červeným šátkem kolem krku nebo se stuhou ovinutou kolem paže na znamení Šimonova mučednictví. Spěchali, aby se dostali do předních řad, odkud bude dobře vidět. Třístudniční ulicí kráčel celý zástup; po vstupu na rynek Herman spatřil, jak podobný proud lidí vyvrhuje Celetná i Železná ulice.
 
@@ -3091,7 +3181,7 @@ Nějakou dobu poslouchali, jak muži pobíhají mezi náhrobky a křičí na se
 
 Až v křesťanských ulicích si Herman uvědomil, že mu hrobníkova jarmulka zůstala v kapse.
 
-Šimon Albrecht 12.
+## Šimon Albrecht 12.
 
 Ladislava před stanicí metra překvapil volný horizont. Stačil jediný pohled na pláň s vybledlou trávou, aby si uvědomil, že se v posledních měsících vůbec nedostal z městského centra. Šimon všechny jeho návrhy na výlety odmítal.
 
@@ -3185,7 +3275,7 @@ Ladislav zpomalil.
 
 Najednou měl pocit, že novinářka dokáže odhadnout, co mu táhne hlavou – zároveň ale rozeznával v jejím zájmu něco osobního, skoro přátelského. Skutečně je tady s ním jen kvůli zajímavému případu? A pokud by to bylo jinak? Nepřál by si to?
 
-Šimon Abeles 12.
+## Šimon Abeles 12.
 
 Při Lazarově pohřbu se nad hlavami zástupu nevznášely prapory. Postavy shromážděné před radnicí nepropojovalo vzrušení, spíše zachmuřené očekávání. Vlastně to ani žádný pohřeb není, uvědomil si Herman, když se připojil k davu. Seskupili se ostatně po straně, na Staroměstském rynku – pod oknem sousedícím s arkýřem kaple Panny Marie.
 
@@ -3267,7 +3357,7 @@ V kuchyni vychrlil na Máří svoje pochybnosti o Lazarově smrti i svou jist
 
 Nepotřeboval se ptát, koho má na mysli. Nevyzvídal, kdo se Máří zmínil o jeho dávném vztahu. Věděl, že dokázala odhadnout, jak to mezi lidmi je, z jediné nedořečené věty nebo z tónu, kterým někdo pronesl pár slov. Vyšel na dvorek. Mokrá látka voněla jenom čistotou.
 
-Šimon Albrecht 13.
+## Šimon Albrecht 13.
 
 Jakmile si Ladislav ve voze metra sedl, nedočkavě otevřel knížku. Monice vysvětlil, že si musí rychle nastudovat nový materiál k výzkumu. Zvědavě ho pozorovala, nechtěl se ale zaplést do vysvětlování, že se mu do rukou zničehonic dostal jakýsi podivný text o Šimonu Abelesovi.
 
@@ -3321,6 +3411,10 @@ Ladislav se na kostelníka pátravě podíval.
 
 Ladislav přikývl a domluvili se, že jakmile průzkum krypty trochu postoupí, propátrají ještě jednou kostel. Jakoubek odešel, ale antropolog se ještě zastavil před otvorem. Zavolal Josefovi a domluvil si s ním další schůzku.
 
+</section>
+
+<section>
+
 „Tak jak pokračuje váš senzační výzkum, pane doktore?“ zeptal se mladík, který na něj čekal v podvečer před domem. Tentokrát si nasadil klobouk jako z první republiky. Jeho moderní brýle sice s tou pokrývkou hlavy nešly příliš dohromady, ale díky pronikavosti Josefových očí měla ta kombinace něco do sebe. Možná by vypadala „módně“, kdyby ovšem Ladislav věděl, co si pod tím slovem má představit. Uvědomil si, že oblékání je další oblast, kde o současných trendech neví nic.
 
 „Vy čtete bulvární tisk? Překvapujete mě.“
@@ -3369,7 +3463,7 @@ Připojil druhou citaci: „_Kromě tváře, kteráž z těch jemu učiněných
 
 Chvíli pátral v paměti, až si vybavil jméno soudní patoložky, která se podílela na výzkumu kosterního materiálu z jednoho zrušeného hřbitova. Našli tehdy ostatky, které vykazovaly známky násilí, a pokoušeli se udělat si jasno. Jako název zprávy napsal _prosba o spolupráci_, pak to smazal a vyťukal prostě _Šimon Abeles._ Odeslal mail a opřel se v židli. Odeslání několika mailů stačilo, aby měl pocit, že se konečně posouvá někam dál. Neuvažoval, jestli jeho pokusy k něčemu budou. Snažil se tu křehkou naději neohrozit, aby mu vydržela co nejdéle. Otevřel si fotografii svého Šimona, kterou mu našel Josef, aby si ji mohl vytisknout a vložit do peněženky.
 
-Šimon Abeles 13.
+## Šimon Abeles 13.
 
 Herman se rozhlédl po mužích za stolem v soudní komnatě. Hejtman mu důstojně pokynul na pozdrav, ale jeho zajímal Pavlovský. Pokusil se z doktorova výrazu vyčíst, zda dnes může dojít k použití útrpného práva.
 
@@ -3661,7 +3755,15 @@ Hanele se pánům šťastně uklonila. Lea se strnule dívala před sebe.
 
 „Odveďte ty ženské do cel,“ přikázal hejtman. Jakmile je vystrkali ze dveří, zvolna pronesl: „Necháme je ještě posedět, než se vypořádáme s Löblem. Ten chlap vyletěl z divokého vejce. Příště ho radši necháme předvést v řetězech.“
 
+</section>
+
+<section>
+
 Herman se vracel ulicemi se svazkem papírů pod paží. Jarní podvečer naladil oblohu do měkkých barev. Soumrak se znovu o něco opozdil, dýchat prohřátý, provoněný vzduch bylo překvapivě příjemné. Zvlášť když si vzpomněl na obviněné a na to, kde právě teď jsou. Proti jeho vůli se mu rozlila tělem úleva, za kterou se okamžitě zastyděl.
+
+</section>
+
+<section>
 
 Otec Johann se na Löbla při dalším výslechu přátelsky usmál, jako by byli staří známí a potkali se náhodou na ulici. U zdi soudní síně čekal muž v černém vedle stolku se svými nástroji. Apelační rada Ebelin se nadechl k otázce, kněz byl však rychlejší.
 
@@ -3727,7 +3829,7 @@ Herman popsal v tiskárně Bešonisedovi, že Löbl si stojí na svém. Výslec
 
 „Skutečně?“
 
-Šimon Albrecht 14.
+## Šimon Albrecht 14.
 
 Ladislav se zabral do práce v nedávno otevřené kryptě číslo dvě, aby unikl myšlenkám, kde je asi jeho syn. Zkoumal s Tomášem jednu rakev po druhé, fotografovali jejich obsah, vyjímali ho a sepisovali. Tušili, že tělo Šimona Abelese tady nenajdou, ale oba se se nechali pohltit pracovní rutinou. Ladislav cítil uspokojení z každé zachované obličejové části, i z kusů oděvu, které našli v dobrém stavu.
 
@@ -3817,6 +3919,10 @@ Ladislava nejdřív zaujal věcný, střízlivý tón článku. Jako by ho Monik
 
 „Pleteš se, ono to žádný řešení nemá. Kdy teda můžu přijít?“
 
+</section>
+
+<section>
+
 Ladislav se vrátil domů půl hodiny předtím, než měla dorazit. Naházel do koše kelímky od majonézových salátů a igelitové sáčky od rohlíků. Do Šimonova pokoje nezašel, v poslední době se při příchodu domů vědomě snažil, aby se tím směrem ani nepodíval. Mary se zatvářila ve dveřích neobvykle rozpačitě, jakmile si ale sedla ke stolu, začala vypadat uvolněně, jako by tu ještě bydlela s nimi.
 
 „Nikdy bych do tebe neřekla, že dokážeš takhle hospodařit.“
@@ -3853,6 +3959,10 @@ Po jejím odchodu spustil notebook, najel si na článek na webu. První koment�
 
 Uvědomil si, že Mary se ho vlastně nezeptala, jak probíhá pátrání. Nechtěla ani vidět Šimonův pokoj. Tvářila se, jako by všechno bylo v pořádku. Že by věděla, kde Šimon je? Ale proč by mu to neřekla? Otevřel notebook a začal hrát Battle Church, protože doufal, že takhle dokáže pustit komentáře z internetové diskuse z hlavy.
 
+</section>
+
+<section>
+
 Začalo mrznout, Ladislav si musel oblékat do Týna několik vrstev oblečení. V metru mu bylo horko, zato v chrámu do půl hodiny prochladl. Během těch několika dní si na Šimonovu nepřítomnost proti své vůli určitým způsobem zvykl, nebo se mu spíš podařilo nemyslet na něj v jednom kuse. Snažil se nepřipustit si, s jakou úlevou se pouští do výzkumu, protože při práci bude mít pocit, že teď může něco ovlivnit.
 
 Dokázal při ní potlačit představy, které se mu vracely – vzpomněl si třeba, jak vzal Šimona ještě jako kluka s míčem do parku Folimanka. Čutali si tam, dokud Šimon nekopl balón do Botiče. Běželi po břehu toho potoka, vydlážděného jako stoka, a hledali místo, kde by slezli k vodě. Míč jim uplaval, Ladislav Šimona utěšil a rovnou sjeli koupit novou mičudu, což možná nebylo úplně výchovné, ale pocit, že jsou dvojka, která všechno zvládne, Ladislavovi připadal důležitější. A záleželo mu na tom, aby ho vyvolal i v synovi. Jakmile si teď vzpomněl na tu příhodu, začaly ho zaplavovat dodatečné výčitky svědomí – jako by snad synovo zmizení zavinil tím, že ho častěji nebral začutat si.
@@ -3879,7 +3989,7 @@ _Nejpodivnější je, že všechny ty trampoty jsem snášel nejen se statečný
 
 _Tady jsem se nemusel zamýšlet nad uspořádáním světa, protože jsem z něj neviděl víc než úzkou stezku, pestré ozdoby ve vlasech indiánského průvodce, propocenou sutanu bratra přede mnou a prales všude kolem. Kupodivu, připadá mi, že Bůh je nám zde blíž než v našich kamenných kostelech. Jako by se vznášel v tom horkém, vlhkém vzduchu spolu s hejny drobných ptáčků s tenkými zobáky, jejichž křidélka se ani na okamžik nezastaví._
 
-Šimon Abeles 14.
+## Šimon Abeles 14.
 
 V klenutých místnostech krčmy, kde se scházeli žalářníci, panovalo přítmí. Několik poblikávajících svící jenom prohlubovalo tmu v koutech. Herman si byl jistý, že ho pozvou ke svému stolu. Čím víc šly letáky na odbyt, tím častěji se s ním lidé dávali lidé do řeči.
 
@@ -3993,6 +4103,10 @@ Objal ji, ale zůstala strnule stát s rukama podél těla. Nepřivinula se k 
 
 Herman byl rád, že má před sebou den v tiskárně a že se s Máří uvidí až odpoledne. Připadalo mu, že by na něm okamžitě poznala, koho navštívil. Kráčel s podivným pocitem, jako by zrazoval jak Leu, tak Máří. Každou jinak, ale obě zároveň.
 
+</section>
+
+<section>
+
 Otec Johann si přečetl Hermanův návrh textu a položil ho na stůl. Vysvětlil Hermanovi, že mezi ním a Löblem se neodehrává žádný zápas. Oba se přece s Löblem ocitli v soudní síni podle Božích záměrů. Löbl vzdoruje, protože taková je jeho osudová cesta. Konverze uskutečněná z povrchních důvodů navíc postrádá smysl.
 
 „A pokud by se pro ni rozhodl směnou za lehčí smrt, obstojí to?“
@@ -4036,6 +4150,10 @@ Johannův klidný hlas Hermana odzbrojoval.
 „Španělský obchodník se opozdil s dodávkou seker. Na omluvu mi poslal pár ruliček vanilky. Před návštěvou u indiánů jsem je rozdrtil kamenem a posypal se tím práškem, abych přilákal jejich nosy – a jejich mozky aby snáze přijaly nádhernou vůni Božího slova.“
 
 Otec Johann se sklonil nad rukopis, který začal bleskurychle korigovat.
+
+</section>
+
+<section>
 
 „Kup na trhu vanilku,“ požádal Herman Máří, když se vrátil domů. Překvapeně se na něj podívala. Už dlouho nechával starost o domácnost na ní.
 
@@ -4139,6 +4257,10 @@ Pozoroval rýhy kolem jejích úst, jako by znovu stáli v uličce a nedokáza
 
 Lea sklopila hlavu.
 
+</section>
+
+<section>
+
 Herman se vydal k dalšímu zápisu příliš brzy, od vrat radnice se proto vrátil zpátky na tržiště. U stánku, kde kdysi koupil Šimonovi hračky, uviděl nové zboží. Figurku chlapce se zbožně sepjatýma rukama, kolem níž se kupily svíce, talíře, hrnky, lžíce se stejným motivem. Hoch se modlil s očima pozdviženýma k nebesům. Břichatý obchodník začal vychvalovat své zboží.
 
 „Šimon vypadal úplně jinak,“ řekl Herman.
@@ -4152,6 +4274,10 @@ Herman se vydal k dalšímu zápisu příliš brzy, od vrat radnice se proto vr
 „Jeden letáček, nebo dva? Pro rodinu, pro přátele, na památku?“ švitořil chlapík.
 
 U zápisu Herman poslouchal Löbla, jak vzdorně opakuje Johannovi, že není žádný indián.
+
+</section>
+
+<section>
 
 Do hospody za žalářníkem tentokrát vyrazil hned odpoledne. Po dvou džbáncích strážce vězňů souhlasil, že ho pustí do chodby před Löblovou celou.
 
@@ -4187,7 +4313,7 @@ Do hospody za žalářníkem tentokrát vyrazil hned odpoledne. Po dvou džbánc
 
 „Ty jsi pořád ještě nepochopil, že vůbec nezáleží na tom, co jsem udělal, nebo neudělal?“
 
-Šimon Albrecht 15.
+## Šimon Albrecht 15.
 
 „Právě abychom měli jistotu, že tam není, musíme ty ostatky důkladně prozkoumat,“ vysvětloval Monice nad svou horkou čokoládou a jejím espressem.
 
@@ -4271,7 +4397,7 @@ Nejdřív otevřel e-mailovou schránku, kde objevil odpověď od patoložky. _Z
 
 Že by Šimona oběsili? Ta myšlenka mu přišla neuvěřitelná. Do­vedl si představit následky příliš silné rány, ale nevěřil, že by chlapce příbuzní popravili. Počkat, ale… Co když se Šimon oběsil sám? Vybavil si, jak mu Monika vyprávěla o sebevraždách dětí a mladistvých. Ovšem proč by si rodina vymyslela příběh o záchvatu? Působil by snad pravděpodobněji než sebevražda?
 
-Šimon Abeles 15.
+## Šimon Abeles 15.
 
 „Přišla za tebou nějaká křepelka,“ oznámila mu Máří v domovní chodbě s nevyřčenou otázkou. Pochopil jen, že návštěvnicí není Lea. O té by se Máří zmínila jinak – ačkoli se s ní nikdy předtím nepotkala, nepochyboval, že by ji poznala.
 
@@ -4337,6 +4463,10 @@ Tep se mu rozběhl. Netušil, jak odpovědět.
 
 Rychle přikývla. „Já trefím,“ oznámila Hermanovi, který se ji chystal vyprovodit. Lazarovi jsem pomoct nedokázal, pomyslel si. Lea se dostala ven beze mě, ale za jakou cenu. Alespoň s Löblem to musí dopadnout jinak.
 
+</section>
+
+<section>
+
 Otec Johann dál vyprávěl Löblovi o svých zážitcích z Ameriky. Popisoval nedůvěru indiánů, když s nimi mluvil o pravé víře. Zmiňoval argumenty, které na ně zapůsobily. Doktor Pavlovský Johanna pozorně sledoval, občas se snažil uklidnit netrpělivého hejtmana.
 
 „Nechápu, k čemu je tahle komedie,“ vybuchl konečně Bedřich z Kutenštejna, když vězně odvedli, „já se za oceán nechystám a počítám, že Löbl taky ne.“
@@ -4352,6 +4482,10 @@ Otec Johann dál vyprávěl Löblovi o svých zážitcích z Ameriky. Popisova
 „Co dáš do letáku?“ obrátil se hejtman k Hermanovi. „Šťavnatý popis mučení by si určitě koupili všichni.“
 
 „Löblova konverze ke křesťanství by znamenala ještě větší senzaci,“ odpověděl Herman. Překvapeně se na něj podívali.
+
+</section>
+
+<section>
 
 Vy židi vždycky dosáhnete svého, přečetl si Herman v žalářníkových očích, když se před ním otevřela brána vězení. Sáhl do kapsy pro peníz, vtiskl mu ho do dlaně. Žalářník poděkoval. Dokážete totiž každého uplatit, dořekl jeho pohled. Muž chvíli otálel v chodbě před celou, jakmile však pochopil, že další peníz nedostane, odloudal se do stínů.
 
@@ -4429,7 +4563,7 @@ Herman se nemínil nechat zastrašit. „Já nejsem důležitý, otče. Často m
 
 „Pravda?“ Herman se zvedl, vtáhl do plic vůni vanilky a zamířil ke dveřím.
 
-Šimon Albrecht 16.
+## Šimon Albrecht 16.
 
 Ladislav se na vyšším levelu hry ocitl v místnosti s oknem zarovnaným cihlami. Pronikaly mezi nimi paprsky světla, které prosévaly prach vznášející se ve vzduchu. Když vyhlédl škvírou, spatřil domy na protější straně ulice. Měly středoevropské fasády z konce devatenáctého století, připomněly mu čtvrť na rozhraní pražských Vinohrad a Vršovic, kde bydlel, a nepodobaly se ani trochu okolí Týnského chrámu. Tak daleko se Ladislav ještě tedy nepropracoval. Spatřil muže v pomačkaných a zaprášených oblecích, podle nichž odhadl dobu na třicátá léta. Byli usazení podél stěny, vedle sebe si položili pistole a zápalné lahve.
 
@@ -4465,7 +4599,7 @@ Nakonec zabočil do užšího kanálu, protože odhadl, že ten větší povede 
 
 Se samopalem připraveným k palbě se opatrně zvedal. Jakmile vyhlédl nad okraj otvoru, spatřil nohy kolem sebe s hlavněmi zbraní u kolen. Vypálil dávku. Teprve pak si všiml, že muži nemají uniformy, ale civilní šaty a místo tváří vojáků, které vypadaly jedna jako druhá, různorodé obličeje povstalců. Ještě než se stačil naštvat sám na sebe, že dokázal zopakovat stejnou chybu, hra se přerušila. Chvíli zíral na temnou obrazovku a uvažoval, jestli mezi muži kolem kanálu byl i Anielewicz.
 
-Šimon Abeles 16.
+## Šimon Abeles 16.
 
 „Nejspíš si, Löble, myslíš, že na tobě nikomu nezáleží,“ pronesl Johann při dalším vyslýchání, díval se přitom na Hermana. „Mýlíš se. V Amazonii jsem dostal horečku. Ležel jsem v chatrči postavené několik stop nad hladinou řeky. Nedokázal jsem nic víc než spouštět ruku, abych se napil z proudu. Celou noc se ozývalo příšerné mručení ještěrů, jimž se říká krokodýli. Jeden se vhoupl do kánoe u chatrče a začal lézt nahoru, s rozevřenou tlamou, aby mě rozdrtil v čelistech. Slabostí jsem se nemohl pohnout. Poručil jsem duši Bohu…“ Johann se rozhlédl a odmlčel se, jako kdyby přišel rozhodující okamžik jeho kázání.
 
@@ -4515,13 +4649,25 @@ Herman pokaždé přelétl očima prvních pár slov nápisu. Odpočíval tam _m
 
 „Určitě měli své chyby, ale… Nebylo by hezké, kdyby takoví byli? Myslím, že smysl náhrobních nápisů spočívá právě v téhle představě…“
 
+</section>
+
+<section>
+
 _Nad ním moje oko prolévá slzy,  
 nad mužem, který byl vzat v mladém věku,  
 běda tomu dni, kdy předčasně zemřel,  
 počet dnů života jeho byl třicet let  
 a každého dne posílal dary chudým._
 
+</section>
+
+<section>
+
 Herman si vzpomněl na Lazara bez hrobu.
+
+</section>
+
+<section>
 
 _Zde spočinula  
 žena ctihodná,  
@@ -4530,6 +4676,10 @@ byla vzácná a líbezná,
 čistá, vážená a dokonalá,  
 činy její byly poctivé po všechny její dny  
 a mlčet o ní je její chválou._
+
+</section>
+
+<section>
 
 Vzpomněl si na Máří a potom na Leu, propojily se mu do jediného zmateného obrazu, až ucítil výčitky svědomí. Vůči každé zvlášť a pak vůči oběma dohromady.
 
@@ -4613,7 +4763,7 @@ Seženu je, rychle črtal slova Herman. Löbla vezmu k sobě, kde ho převleču
 
 Prošel dílnu, až se zastavil u tiskařského lisu – točitý _šroub_, který přitlačoval papír na sazbu, měl ten pravý rozměr.
 
-Šimon Albrecht 17.
+## Šimon Albrecht 17.
 
 Josef po něm pokukoval přes rámečky brýlí. V chrámovém příšeří to vypadalo, jako by kulil oči. „No, problém s Battle Church je, že má hodně silné etické rozhraní. Jinde vás při zastřelení spoluhráče vyřadí na jedno kolo, nebo vám uberou body. Battlechurcháci jsou drsnější. Hrajou _hardcore_.“
 
@@ -4827,7 +4977,7 @@ _Přesně takhle jsem si představoval svou budoucí redukci v těch nejodváž
 
 Ladislav dočetl a podíval se na fotografii, kterou našel v knize jako záložku. Byl na ní barokní chrám, který znal. Skoro okamžitě si uvědomil, že je to kostel svatého Ignáce na Karlově náměstí, zasvěcený zakladateli jezuitského řádu. Uvažoval, jestli se snímek ocitl v knize náhodou. Nebo se mu otec Brušák snažil něco sdělit? Ale co? Proč mu vlastně půjčil tu knížku?
 
-Šimon Abeles 17.
+## Šimon Abeles 17.
 
 Herman do sebe vpravil večeři, roztržitě si přitom povídal s Máří a snažil se nedat na sobě nic znát. Málem ji upozornil, že v noci přivede hosta, ale nakonec zaváhal a radši si nechal svůj plán pro sebe. Jako by se vrátili do doby, kdy se ještě pořádně neznali. Netrpělivě čekal nad svými lejstry ve studovně, až večer pokročí, pak se vydal zpět do tiskárny. Nemusel spěchat, ale i tak mu po pár krocích stál na čele pot. Bylo už teplo a soumrak se snášel jenom pomalu. Herman však věděl, že až půjde žalářník zpátky z hospody, rozhostí se tma.
 
@@ -4983,7 +5133,7 @@ Poslepu zamířili do jeho ložnice. Pomohl jí vyprostit se ze šatů, na okam�
 
 Máří mu chvílemi vykala a se smíchem přecházela na tykání, to si ještě uvědomoval, ale co mu říká, už nevnímal.
 
-Šimon Albrecht 18.
+## Šimon Albrecht 18.
 
 Ladislav vyšel z chrámu a zavolal Josefovi, který se pro něj snažil zajistit nový přístup do Battle Church.
 
@@ -5051,7 +5201,7 @@ Ladislav do ní nahlédl, uviděl temně lesklé tělo malého samopalu, rukoje�
 
 Viděl tvář vojáka do posledního detailu. Byly mu povědomé hlavně jeho oči, nebo spíše jejich upřený pohled, který vyvolával dojem, jako by voják poznával, koho má před sebou. Vztaženou dlaní jim naznačil, aby zastavili. Opakoval ten signál, jako by byl určený jenom Ladislavovi a představoval zprávu, které jenom on může porozumět. Auto už skoro zastavilo. Voják se sehnul a pootevřel ústa, jako by se chystal něco říct. Stále se díval na Ladislava. Ten váhal, protože nevěděl, jak má zareagovat. Ladislav měl teď vojákovu tvář přímo před sebou. Zbývalo několik vteřin, aby ho mohl varovat. Vzápětí mu na rameno zaklepal Tomáš. Ladislav notebook prudce zavřel.
 
-Šimon Abeles 18.
+## Šimon Abeles 18.
 
 Máří se vrátila ze mše v chrámu Panny Marie před Týnem, na níž otec Johann hovořil o Löblově popravě. Bude vítězstvím Boží spravedlnosti nad zločinem a triumfem pravé víry nad bludařstvím. Máří nezopakovala Johannovy věty úplně přesně, ale Herman si dovedl představit, co kněz řekl. Uvědomil si, proč se poslední dobou nedokázal přimět, aby do kostela zašel – bál se, že uslyší něco podobného. Bylo to silnější než vědomí, že se musí chovat se jako vzorný křesťan.
 
@@ -5125,7 +5275,7 @@ Usmála se na něj. Sdílela s ním své okouzlení, jako by se znali odedávna
 
 Dinina přímočarost v něm zanechala výrazný dojem. Náhle cítil, že se nevzdá, přestože jeho pokus vysvobodit Löbla vyšel naprázdno a přestože nevěděl, do čeho se teď má vlastně pustit.
 
-Šimon Albrecht 19.
+## Šimon Albrecht 19.
 
 Ladislav nedokázal pustit z hlavy zástupce židovských organizací, kteří přišli vyjednávat do chrámu. Měl pocit, jako by mu nevědomky poskytli klíč k nalezení hrobu. Zeptal se kostelníka, jestli takovou návštěvu zažil prvně, a s překvapením si vyslechl, že židé se chodí dívat na hrob Šimona Abelese poměrně často.
 
@@ -5171,7 +5321,7 @@ Stáhl se do chrámu, chtěl se ukrýt mezi zbylé lavice; podle spršky kulek p
 
 Palba postupně ustala a pak se nad okrajem objevily hlavy a namířené zbraně. Když uviděl ruku s Molotovovým koktejlem, uskočil ke stěně sondy. Nějaký mladík se pokusil ruku s lahví odstrčit, ale Ladislav už nesnesl ten pocit, že je v pasti. Nečekal, až se objeví popisek, kde a kdy se příběh odehrává, nespolehl se na pomoc mladíka nahoře a udělal něco, co bylo určitě proti všem pravidlům – natvrdo notebook vypnul.
 
-Šimon Abeles 19.
+## Šimon Abeles 19.
 
 Ten den se probudili do jasného rána. Když vyšli z domu, Hermana při pohledu na zářící slunce zamrazilo. Staroměstský rynek zaplnili lidé spěchající stejným směrem, Celetnou ulicí k Prašné bráně a dál v jejím prodloužení, k Vídeňské bráně a ven z města. Světla stále přibývalo, jak se slunce zvedalo nad okraje střech. Zdálo se, že zaplavuje ulice jako voda při povodni. Tiskaři se kráčelo stále hůř, musel se nutit, aby udržel krok s ostatními.
 
@@ -5247,7 +5397,7 @@ Když se dostali na volné prostranství, Herman uviděl jednoho z pomocníků 
 
 Z mlčenlivého zástupu se vynořila žena se šátkem na hlavě. Toporným krokem proklouzla kolem Hermana. Dina sjela po Hermanovi bezvýrazným pohledem, ale nevypadalo to, že by ho poznala.
 
-Šimon Albrecht 20.
+## Šimon Albrecht 20.
 
 Ladislav se díval na zavřený notebook ve svých rukou, ještě pořád z něj vycházelo teplo. Znovu se nikam se nedostal. Vzpomněl si, co Šimon říkal o jeho vztahu k počítačům, a připouštěl, že syn měl pravdu. Styděl se sám před sebou. Najednou ho opustila odvaha, nedokázal spustit hru a začít zkoumat, jestli se mu do ní opět podaří vklouznout jako hostovi. V podstatě si byl jistý, že tahle cesta se uzavřela. Vytáhl knížku v ošoupané červené vazbě.
 
@@ -5381,7 +5531,7 @@ Bez velkých očekávání nahlédl do mailové schránky, ale okamžitě se na 
 
 Zadal do vyhledávače její jméno a objevil webové stránky, podle kterých zjistil, že je v Austrálii malířkou. Najel na galerii plnou realistických portrétů žen ve středních letech, snad s úspěšnou kariérou a s fungujícím rodinným životem; sebevědomých mužů, kteří možná právě oslavili nějaké kulaté výročí; vždy spokojených dětí. Přejížděl očima z jednoho obrazu na druhý, až si uvědomil, co ho na nich přitahuje a dráždí zároveň. Byly to ty šťastné výrazy portrétovaných, které působily trochu nevěrohodně, ale nedaly se zpochybnit. Očividně někde existovali lidé, jimž se nerozpadlo manželství, neměli nezvěstného syna, nezajímala se o ně policie a nezabývali se výzkumem, který nabýval čím dál podivnější podoby.
 
-Šimon Abeles 20.
+## Šimon Abeles 20.
 
 Den po Löblově popravě se Matěj objevil v tiskárně a bez pozdravu, mlčky podal Hermanovi návrh letáku. Tiskař na okamžik zadoufal, že si přečte pravdivý popis včerejších událostí. Dramaticky vystavěný text však vyprávěl o dokonaném obrácení bludaře Löbla na pravou víru.
 
@@ -5481,6 +5631,10 @@ Bešonised rozpačitě pošilhával do papíru na stole, na který si zřejmě n
 
 „No dobře, tohle právě nemyslím. Seber si ty dopisy a utíkej, než si vzpomenu, že za tebe budu muset sehnat náhradu. A ožeň se s tou svou Máří, dobře ti radím, pak už budeš od ostatních k nerozeznání.“
 
+</section>
+
+<section>
+
 Herman kývl kupci domu na nízkou cenu, podepsal smlouvu a souhlasil, že se vystěhuje do měsíce. Následujícího večera však uslyšel, jak se chodbou rozléhají rány na dveře – někdo na ně musel vší silou tlouci. Máří kývla na Hermana, ať zůstane sedět v kuchyni, odkud se mohl vytratit zadním vchodem na dvorek. Za okamžik se vrátila s udýchaným Matějem. Kněz si selským gestem setřel pot z čela a bez váhání si osušil ruku o sutanu.
 
 „Musíte zmizet, mistře.“
@@ -5531,7 +5685,7 @@ Máří si zahalila hlavu šátkem, Herman sňal ze skoby dlouhý plášť. Pře
 
 „Musím ještě něco vyřídit v Židovském městě.“
 
-Šimon Albrecht 21.
+## Šimon Albrecht 21.
 
 „Krypta u pilíře je naše jediná šance,“ uzavřel Ladislav. Otec Brušák zavrtěl hlavou, ředitel Ladislavova ústavu pokrčil rameny: „Nemáme už čas.“
 
@@ -5659,6 +5813,10 @@ Její úsměv se rozšířil. „To byla hnilobná tekutina!“ sdělila mu vese
 
 Ladislavovi připadalo, jako by se ticho v budově ještě prohloubilo. Stejná prázdnota panovala i za oknem. Ohříval si dlaně o hrnek, překvapený jednoznačností odpovědí. I tím, jak si protiřečily s tehdejšími záznamy. Takže to muselo být jinak. Cítil úlevu a zároveň překvapení. Opravdu mohlo být vysvětlení takhle jednoduché?
 
+</section>
+
+<section>
+
 Nazítří vstal brzy, na temné zimní obloze se ještě neobjevily žádné známky svítání. Měl před sebou závěrečný den výzkumu, svou poslední šanci. Od Abigailiných izraelských bratranců dosud žádná odpověď nedorazila. Naposledy se podíval na maily u snídaně.
 
 Večer předchozího dne si zadal jejich jména do vyhledávače a objevil několik snímků. Jeden z nich zřejmě podnikal výlety s partou motorkářů do vyprahlé blízkovýchodní přírody. Rozkročený postával vedle mohutného stroje s masivními řídítky a s vydutou nádrží, džíny mu kopírovaly svalnatá stehna, pod koženou bundou se mu rýsovala atletická ramena. Podle e-mailové adresy pracoval někde ve firmě, nejspíš jako šéf, jak Ladislav odhadoval podle jeho energického a zároveň uvolněného výrazu. Z krajiny byla na fotografii vidět vyschlá hlína u jeho nohou a klikatá linie kamenitých kopců v pozadí.
@@ -5673,7 +5831,7 @@ Odeslal mail na obě adresy, vzápětí objevil novou doručenou zprávu. Když 
 
 Napsala mu, že si vzpomněla na jeden detail: kdesi v Praze by měl bydlet její příbuzný. Rodina s ním ztratila kontakt za války, kterou přežil z pražského příbuzenstva jako jediný díky tomu, že ho jako dítě ukryli u jeptišek. Stal se z něj prý křesťan. Ladislav přelétl těch několik řádků s lehkým zklamáním. Nemělo smysl vyptávat se dál, v závěru mailu stálo, že o něm Abigail žádné další podrobnosti nezná. O izraelských bratrancích se tentokrát vůbec nezmínila. Ladislav sklapl notebook.
 
-Šimon Abeles 21.
+## Šimon Abeles 21.
 
 Herman s Máří se zastavili před zavřenou fortnou Židovského města, ale pak si tiskař vzpomněl, jak putoval se Šmuelem přes dvorky. Vyzkoušel několik domovních vrat, až jedna povolila, a zamířil s Máří do průjezdu. Připravoval se na to, jak budou šplhat přes ploty; dům měl naštěstí východ i na druhou stranu. Po špičkách vyšli, opatrně za sebou zavřeli vrata. Ačkoli je obklopovala temnota, nemohli si být jisti, jestli je někdo neviditelný nepozoruje z okna. Rychle se ponořili do uliček Židovského města.
 
@@ -5777,7 +5935,7 @@ Máří naznačila lehkou úklonu hlavy, kterou si moc nezadala, ale zároveň v
 
 Herman představil Máří doktora. Až poté si uvědomil, že snad neřekl všechny jeho tituly, ale nezdálo se, že by mu na tom nějak záleželo. Poté představil doktorovi Matěje, a když uviděl, jak Pavlovský zaváhal, dodal, že je to jeho přítel, který jim pomohl při odchodu z města.
 
-Šimon Albrecht 22.
+## Šimon Albrecht 22.
 
 Kameníci se v Týnu skláněli nad železnou konstrukcí, sestavenou u sloupu s malbou. Nejspíš si připravují dnešní práci, napadlo ho. Měl dobrý pocit, protože se mu podařilo přijít ještě před devátou. Teprve když Ladislav došel k nim, uvědomil si, že konstrukci rozebírají. „Co to děláte?“ pustil se do nich.
 
@@ -5853,7 +6011,7 @@ Příběh zde končil, na protější straně začínaly dopisy jiného jezuity.
 
 „Jste na řadě,“ prohodil šéf kameníků. Vsunuli Ladislavovi do odkrytého otvoru žebřík a postavili poblíž malý reflektor, aby si ho antropolog mohl vzít s sebou. Ladislav sestoupil po prvních příčlích, pak se opřel loktem o ledovou dlažbu, natáhl se pro reflektor a spustil se do otvoru.
 
-Šimon Abeles 22.
+## Šimon Abeles 22.
 
 Několikrát o sebe zavadili v kočáře koleny, než si každý našel své místo. Herman s Máří měli proti sobě Pavlovského s Matějem. Byli rozmístěni jako figurky v neznámé stolní hře, u níž nikdo nezná pravidla. Intenzivní chvíle na počátku, kdy si toho při představování dokázali několika slovy hodně sdělit, pominula. Nějaký čas cestovali mlčky. Rachocení kol protkané klapotem kopyt bylo monotónní, v brzké hodině by mělo uspávat, ale Herman si uvědomoval napětí, které tady panovalo. Každý z nich jako by měl na rtech nevyslovenou otázku. Mezi záclonkami tu a tam pronikl dovnitř závan svěžího vzduchu, jenž nedokázal změnit atmosféru uvnitř. Herman nakonec nevydržel mlčet.
 
@@ -6001,7 +6159,7 @@ Začal. Děkoval v duchu Bešonisedovi za nekonečné debaty o tom, co na čte
 
 Teprve když v hostinci řekl Máří, jak pochodil, ucítil něco jako radost. Hned odpoledne začali obcházet domy vhodné k pronájmu, které jim doporučila žena hostinského. Pro Hermana bylo těžké chovat se k Máří jako k manželce. Tedy kráčet vedle ní lhostejně po ulici, jako by se smrtelně nudil, protože většina mužů si vedla právě takhle. Máří si zase musela vymyslet zkazky o Hermanových nesmyslných názorech, hloupých poznámkách a úmorných nárocích, aby je dala k lepšímu mezi ženami provázejícími je po domech. Podezření nepotřebuje důkazy, jak oba věděli.
 
-Šimon Albrecht 23.
+## Šimon Albrecht 23.
 
 Do chrámu pronikl hlas z megafonu, kterému nebylo rozumět, protože se ztrácel v několikanásobné ozvěně. Ladislav vyhlédl z krypty, a když uviděl výrazy kameníků, vylezl z ní a zamířil k chrámovým vratům.
 
@@ -6165,7 +6323,7 @@ Syn se vztyčil, Ladislav vstal také. Když chlapec vyklouzl zpoza stolu, otec 
 
 Najednou měl pocit, jako by znovu vklouzl do svého vlastního těla. Zbavil se té podivné strnulosti a nejistoty, která ho svazovala v minulých dnech. Zhluboka dýchal, cítil, jak mu pravidelně buší srdce a svaly v těle se napínají. Chodci mu uhýbali z cesty, jako by věděli, že má před sebou důležitý cíl.
 
-Šimon Abeles 23.
+## Šimon Abeles 23.
 
 Když Herman našel v tiskárně na sázecím pultě dopis, na němž bylo úhledně vyvedeno _mistr Herman, tiskař_, jeho prvním pocitem byl úlek. V hlavě se mu začal rozpínat prázdný prostor. Přešlápl z nohy na nohu. Potěžkal dopis v ruce, váhal s jeho otevřením. Kdokoli by ho potřeboval ve Vídni oslovit, poslal by jednoduše poslíčka se vzkazem. Konečně dopis rozpečetil, uvnitř našel ušmudlanou obálku, roztrhl ji a uviděl oslovení: _Drahý Hermane._
 
@@ -6176,6 +6334,9 @@ Matěj posílal své listy po obchodnících, kteří projížděli jeho vesnic�
 Herman se začal vyptávat obchodníků, jestli někdo z nich neobchoduje s Amerikou. Předstíral, že jedná za svou tiskárnu, a brzy našel několik partnerů, které zaujala představa knižního exportu do zámoří. Když se nakonec svěřil s rozpracovaným plánem impresorovi, jeho tvář za okuláry ještě víc zvážněla, což bylo na rozdíl od Bešoniseda dobré znamení. Tiskárna nakonec skutečně získala od obchodníků objednávku na zásilku náboženských knih určených pro Maraňon.
 
 Herman věděl, že nemůže do jedné z nich vložit dopis a spoléhat na to, že se dostane k Matějovi. Několik dní přemýšlel, až ho konečně napadlo, jak poslat Matějovi prostřednictvím zásilky zprávu, kterou pochopí jenom on. Postavil se ke kase. Nepotřeboval žádný návrh textu, sázel z hlavy, jako by měl budoucí leták před očima.
+
+  
+  
 
 _Truchlíme nad Šimonem Abelesem, mučedníkem  
 z Prahy, a nad osudem, který ho tak brzy odvedl  
@@ -6188,6 +6349,9 @@ A kéž by se nebylo nutno rozžehnat se zároveň
 s celým předchozím životem.  
 Zisk je vždy ztráta. Pro ono vzdálené musíme  
 zapomenout na to blízké…_
+
+  
+  
 
 Pak se vypravil do židovské čtvrti, poprvé za svého pobytu ve Vídni. Procházel se po ulicích jako zvědavý cizinec, přitom zkoumavě pozoroval okolí. Konečně uviděl kluka přibližně v Šimonově věku, který mu byl trochu podobný, a především měl jeho jiskru v očích. Tu směs nejistoty, dychtivosti a nadšení pro něco nového, co na něho čeká, možná až za hranicí Židovského města. Zahlédl ho, jak vbíhá do domovních vrat. Zavolal, a když se nic nedělo, pískl na prsty. Hoch byl okamžitě zpátky.
 
@@ -6225,7 +6389,7 @@ _Jaká zaostalost panuje v těch končinách a jak záslužné je konání otc
 
 _Trestná výprava nenalezla otcovo tělo, vzhledem ke svým barbarským obyčejům s ním indiáni nejspíš naložili ohavně. Nenašly se ani jeho šaty, jichž měl ostatně nemnoho. Jedinou vzpomínkou na otce zůstává kniha nalezená v indiánské chatrči, kterou Matiey musel dostat nedávno. Divochy upoutala, protože nejspíš doufali, že ji později úspěšně vymění za zboží. Teď se stala důkazem jejich ohavného činu. Obsahovala i leták s příběhem pražského mučedníka Šimona Abelese. S jeho jménem na rtech vojáci ztrestali vzbouřené indiány smrtí._
 
-Šimon Albrecht 24.
+## Šimon Albrecht 24.
 
 U bočního vchodu do kostela z Celetné ulice, kam Ladislav dospěl, když proběhl Týnským dvorem, narazil na řadu policejních těžkooděnců. Pod štíty přileb uviděl jakoby identické, naprosto klidné oči. Když k nim přikročil, skoro neznatelně se napřímili. Ladislav v rozpacích rozhodil rukama: „Jsem vedoucí výzkumu v Týnu.“ Pozorovali ho, nikdo z nich se nepohnul, nepromluvil. Konečně ho napadlo něco, co by mohlo zapůsobit: „Kapitán Jirsa mě požádal, ať sem přijdu.“
 
@@ -6391,6 +6555,10 @@ Ladislav čekal, co Brušák dodá.
 
 Brušák se zatvářil, jako by chtěl odpovědět, ale nakonec jenom stiskl Ladislavovi ruku. Otočil se a vykročil, po cestě překračoval rozlámané chrámové zařízení. Zastavil se před oltářem, sklonil hlavu a znehybněl. Pak se shýbl k troskám, aby je rozvážnými, promyšlenými pohyby začal skládat k nejbližšímu pilíři.
 
+</section>
+
+<section>
+
 Ladislava po cestě k Mary napadlo, jestli nemá koupit květiny, zapřemýšlel i nad lahví vína. Nakonec se nedokázal rozhodnout a přišel s prázdnýma rukama. Napadlo ho, že je to pro jeho vztah s Mary vlastně typické. Zastavil se před vršovickým činžákem ze začátku dvacátého století, našel tlačítko zvonku. Pokoušel se představit si, že tenhle dům má něco společného se Šimonem, nemohl tomu ale uvěřit. Postavy karyatid, polosloupy a římsy – všechno bylo dokonale opraveno zářivou omítkou – citlivě repasované vchodové dveře – nic nenaznačovalo, že tudy syn někdy prošel. Ladislav vstoupil do chodby obložené mramorem. Obrazce na širokých deskách mu připomněly vrstvy půdy, jak je znal z terénních sond. Ze dveří v patře vyhlédla Mary.
 
 Stoupal k ní, cítil ostych a zvědavost zároveň. „Nic nenesu,“ oznámil na prahu.
@@ -6491,6 +6659,10 @@ Napětí se vytratilo, Mary mu nalila další šálek čaje.
 
 „Že to říkáš zrovna ty, takový nepřítel pokroku.“
 
+</section>
+
+<section>
+
 Doma Ladislav zapnul notebook a otevřel mailovou schránku. Objevil zprávu od izraelského bratrance Abigail. Stručně, ale přátelsky se omlouval za opožděnou odpověď. Nemůže přispět ničím podstatným, vzpomíná si jen na určitou drobnost, která se v rodině traduje. Šimona Abelese prý okouzlila křesťanská hudba, ta měla být hlavním důvodem jeho pokusu o konverzi, daleko spíše než náklonnost ke křesťanství. Netuší, dodal zdvořile na závěr, jestli tento detail může Ladislavovi nějak pomoci.
 
 Antropolog vstal, vydal se na chodbu před lednici a podíval se balkonovými dveřmi ven. Okna naproti uviděl neobvykle jasně. Vyplňovala je jakási lesklá plocha. Zamžikal, pak si uvědomil, že clona mezi jeho balkonem a protějšími okny zmizela. U kmene stromu dole na chodníku zasvítily žluté ovály odřezaných větví. Výhled byl dokonalý. Okna naproti teď ale zastírala lesklá žebra žaluzií. Poodstoupil, pak otevřel dveře na balkon a vdechl mrazivý vzduch. Nedokázal rozeznat ani to, jestli mezi žaluziemi proniká světlo.
@@ -6499,7 +6671,7 @@ Uslyšel hlasy, naklonil se ještě jednou přes zábradlí a uviděl, že pře
 
 Když se večeře ohřívala na pánvi a Ladislav znovu vkročil na balkon, ulice u protějšího domu už byla prázdná. Vyklonil se a zadíval se tam, odkud měl přijít Šimon. Spatřil chlapeckou postavu, která se z toho směru vynořila. Musel to být on, už podle toho, jak v lehkém předklonu, energicky rázoval dlouhými kroky. Nemohl si ho s nikým splést. Nechal ho přijít tak blízko, aby ho bezpečně poznal, pak na něj zamával. Chystal se zavolat jeho jméno, ale to už chlapec na chodníku zvedl ruku.
 
-Šimon Abeles 24.
+## Šimon Abeles 24.
 
 Herman se svezl vedle sázecího pultu na podlahu. Svět kolem něj se rozkymácel. Uviděl před sebou Matěje, nesmyslně se usmívajícího, který se proměnil v Šimona. Zahlédl otce Johanna, Löbla s divokým výrazem, jeho bílé chodidlo na popravišti. Všechno, na co se pokoušel celé měsíce zapomenout, se mu znovu objevilo před očima. Zvedl se a zamířil nejistým krokem do oficíny: „Potřebuju si promyslet, jak text rozvrhnout. Za pár hodin jsem zpátky,“ řekl impresorovi a rychle se vydal zpátky, aby se ho muž s okuláry nemohl začít vyptávat na podrobnosti.
 
@@ -6529,10 +6701,12 @@ Postavil svíčku na stélu, zapálil ji. Plamen se dychtivě rozvinul, pak uhnu
 
 Právo je ďáblův vynález, vybavil si Matějova slova. A knihtisk? Opravdu ho vynalezli díky Božímu vnuknutí? Najednou si byl skoro jistý, že v letáku, který koupil od starce, byly formulace převzaté z jeho vlastních textů.
 
-Naposledy Šimon
+## Naposledy Šimon
 
 Sedí zpříma, jako by se chystal vyskočit a rozběhnout se – před sebou má ovšem monitor. Jeho oči přebíhají z jednoho bodu obrazovky do druhého. Ukazovákem se chystá stisknout tlačítko myši. Občas mu proběhne hlavou vzpomínka na události pár dnů staré, na jeho vlastní hru, v níž se ocitl. Každým okamžikem se ale znovu rozběhne hra před ním. Těší se, že už nebude muset o ničem uvažovat. Za rohem skladiště se vynoří voják, blíží se dlouhými skoky, skoro se vznáší, jako kdyby nic nevážil. K Šimonovi doléhá nezřetelný hlas, na něco se ho ptá, o chvilku později otázku podrážděně opakuje. Šimon zmáčkne tlačítko myši, zbraň by měla spustit palbu. Nic se nestane. Zopakuje akci se stejným výsledkem; usoudí, že přestal fungovat internet. Ohlédne se a uvidí svého otce, který právě vypnul modem. Je deset večer; Šimonova doba vyhrazená pro internet právě skončila.
 
-Naposledy Herman
+## Naposledy Herman
 
 Stojí před tiskařskou kasou a chystá se uchopit první literu. Text, který bude sázet, nemá připíchnutý na tenaklu. Vznáší se mu před očima. Zatím v podobě první věty, na kterou naváže druhá, a na ni zase další. Herman se chystá popsat Matějův příběh podle jeho dopisů. Nezmíní se v něm o Šimonu Abelesovi, ten však bude součástí vyprávění – vždyť kvůli němu přece Matěj odjel. Herman ví, že Matěj na Šimona nikdy nezapomněl. Proto se ho snažil nalézt v indiánském chlapci. Proto chtěl, aby se všechno odehrálo znovu, ale jinak, s jiným koncem. Po Matějovi ovšem zůstal jeho vlastní příběh. Je třeba ho vyprávět, co nejpřesněji, jako by se odehrával znovu. Jinak zůstane zakletý v dopisech s rozpitými, zvarhánkovatělými obálkami, jako by se nikdy nestal. A je tady ještě jeden důvod. Herman musí popsat Matějův příběh dříve, než z něj někdo jiný vytvoří leták.
+
+</section>

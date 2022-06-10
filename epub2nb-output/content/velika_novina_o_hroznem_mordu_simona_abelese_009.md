@@ -2,7 +2,9 @@
 contentType: prose
 ---
 
-Použitá literatura
+<section>
+
+## Použitá literatura
 
 Carlebach, Elisheva: _Divided Souls: Converts from Judaism in Germany, 1500–1750_, Yale University Press, Yale 2001
 
@@ -67,3 +69,5 @@ Zaorálek, Jaroslav: _Lidová rčení_, Československá akademie, Praha 1963
 Zap, Karel Vladislav: _Hlavní farní chrám Nanebevzetí Panny Marie před Týnem ve starém městě Pražském, jeho osudy, historické, starožitné a umělecké památnosti_, Pospíšil, Praha 1854
 
 Zatočil z Levenburku, Jan Norbert: _Leto- a denopis celého královského Starého i Nového města Pražského léta Páně 1648 patnácte neděl, dnem i nocí trvajícího obležení Švédského_, Emil Šolc, Praha 1914
+
+</section>
