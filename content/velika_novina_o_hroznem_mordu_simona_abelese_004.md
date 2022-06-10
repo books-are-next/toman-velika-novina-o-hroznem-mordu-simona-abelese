@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Veliká novina o hrozném mordu Šimona Abelese](https://search.mlp.cz/cz/titul/velika-novina-o-hroznem-mordu-simona-abelese/4086801/#book-content) tak, jak bylo vydáno nakladatelstvím Argo v Praze v roce 2014. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -14,4 +16,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 24. 9. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>
