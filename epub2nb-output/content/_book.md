@@ -23,7 +23,22 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: velika_novina_o_hroznem_mordu_simona_abelese_005.html
+        title: Motto
+        hiddenTitle: true
+      - link: velika_novina_o_hroznem_mordu_simona_abelese_006.html
+        title: Veliká novina o hrozném mordu Šimona Abelese
+        hiddenTitle: true
+      - link: velika_novina_o_hroznem_mordu_simona_abelese_007.html
+        title: Poznámka
+        hiddenTitle: true
+      - link: velika_novina_o_hroznem_mordu_simona_abelese_008.html
+        title: Doslov
+        hiddenTitle: true
+      - link: velika_novina_o_hroznem_mordu_simona_abelese_009.html
+        title: Použitá literatura
+        hiddenTitle: true
     isSection: true
     listType: plain
 static:

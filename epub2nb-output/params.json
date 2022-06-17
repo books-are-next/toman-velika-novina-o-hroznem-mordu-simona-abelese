@@ -25,12 +25,12 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
@@ -95,8 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Motto"
           },
           {
             "filename": "velika_novina_o_hroznem_mordu_simona_abelese_006.md",
@@ -107,8 +108,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Veliká novina o hrozném mordu Šimona Abelese"
           },
           {
             "filename": "velika_novina_o_hroznem_mordu_simona_abelese_007.md",
@@ -119,8 +121,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Poznámka"
           },
           {
             "filename": "velika_novina_o_hroznem_mordu_simona_abelese_008.md",
@@ -131,8 +134,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Doslov"
           },
           {
             "filename": "velika_novina_o_hroznem_mordu_simona_abelese_009.md",
@@ -143,8 +147,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Použitá literatura"
           },
           {
             "filename": "velika_novina_o_hroznem_mordu_simona_abelese_010.md",
@@ -307,6 +312,6 @@
       "user": "books-are-next",
       "repo": "toman-velika-novina-o-hroznem-mordu-simona-abelese"
     },
-    "generatedAt": 1655471536340
+    "generatedAt": 1655472448351
   }
 }
