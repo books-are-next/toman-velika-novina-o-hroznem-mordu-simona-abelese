@@ -1,0 +1,632 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Veliká novina o hrozném mordu Šimona Abelese",
+  "author": "Marek Toman",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "toman-velika-novina-o-hroznem-mordu-simona-abelese-340ab96",
+  "revision": "340ab96",
+  "readingOrder": [
+    "promo.html",
+    "velika_novina_o_hroznem_mordu_simona_abelese_005.html",
+    "velika_novina_o_hroznem_mordu_simona_abelese_006.html",
+    "velika_novina_o_hroznem_mordu_simona_abelese_007.html",
+    "velika_novina_o_hroznem_mordu_simona_abelese_008.html",
+    "velika_novina_o_hroznem_mordu_simona_abelese_009.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Jun 17 2022 13:14:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655471673265
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "velika_novina_o_hroznem_mordu_simona_abelese_005.html",
+      "toc": []
+    },
+    {
+      "title": "Veliká novina o hrozném mordu Šimona Abelese",
+      "file": "velika_novina_o_hroznem_mordu_simona_abelese_005.html",
+      "words": 11,
+      "chars": 70,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "velika_novina_o_hroznem_mordu_simona_abelese_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Veliká novina o hrozném mordu Šimona Abelese",
+      "file": "velika_novina_o_hroznem_mordu_simona_abelese_006.html",
+      "words": 95804,
+      "chars": 593102,
+      "ideas": 3320,
+      "role": "chapter",
+      "order": 2,
+      "prev": "velika_novina_o_hroznem_mordu_simona_abelese_005.html",
+      "next": "velika_novina_o_hroznem_mordu_simona_abelese_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Šimon Albrecht 0.",
+              "id": "šimon-albrecht-0",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Šimon Abeles 0.",
+              "id": "šimon-abeles-0",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Šimon Albrecht 1.",
+              "id": "šimon-albrecht-1",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Šimon Abeles 1.",
+              "id": "šimon-abeles-1",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Šimon Albrecht 2.",
+              "id": "šimon-albrecht-2",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Šimon Abeles 2.",
+              "id": "šimon-abeles-2",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Šimon Albrecht 3.",
+              "id": "šimon-albrecht-3",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Šimon Abeles 3.",
+              "id": "šimon-abeles-3",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Šimon Albrecht 4.",
+              "id": "šimon-albrecht-4",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Šimon Abeles 4.",
+              "id": "šimon-abeles-4",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Šimon Albrecht 5.",
+              "id": "šimon-albrecht-5",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Šimon Abeles 5.",
+              "id": "šimon-abeles-5",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Šimon Albrecht 6.",
+              "id": "šimon-albrecht-6",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Šimon Abeles 6.",
+              "id": "šimon-abeles-6",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Šimon Albrecht 7.",
+              "id": "šimon-albrecht-7",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Šimon Abeles 7.",
+              "id": "šimon-abeles-7",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Šimon Albrecht 8.",
+              "id": "šimon-albrecht-8",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "Šimon Abeles 8.",
+              "id": "šimon-abeles-8",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "Šimon Albrecht 9.",
+              "id": "šimon-albrecht-9",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "Šimon Abeles 9.",
+              "id": "šimon-abeles-9",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "Šimon Albrecht 10.",
+              "id": "šimon-albrecht-10",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "Šimon Abeles 10.",
+              "id": "šimon-abeles-10",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "Šimon Albrecht 11.",
+              "id": "šimon-albrecht-11",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "Šimon Abeles 11.",
+              "id": "šimon-abeles-11",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "Šimon Albrecht 12.",
+              "id": "šimon-albrecht-12",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "Šimon Abeles 12.",
+              "id": "šimon-abeles-12",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "Šimon Albrecht 13.",
+              "id": "šimon-albrecht-13",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "Šimon Abeles 13.",
+              "id": "šimon-abeles-13",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "Šimon Albrecht 14.",
+              "id": "šimon-albrecht-14",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "Šimon Abeles 14.",
+              "id": "šimon-abeles-14",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "Šimon Albrecht 15.",
+              "id": "šimon-albrecht-15",
+              "children": []
+            },
+            {
+              "index": 32,
+              "level": 2,
+              "name": "Šimon Abeles 15.",
+              "id": "šimon-abeles-15",
+              "children": []
+            },
+            {
+              "index": 33,
+              "level": 2,
+              "name": "Šimon Albrecht 16.",
+              "id": "šimon-albrecht-16",
+              "children": []
+            },
+            {
+              "index": 34,
+              "level": 2,
+              "name": "Šimon Abeles 16.",
+              "id": "šimon-abeles-16",
+              "children": []
+            },
+            {
+              "index": 35,
+              "level": 2,
+              "name": "Šimon Albrecht 17.",
+              "id": "šimon-albrecht-17",
+              "children": []
+            },
+            {
+              "index": 36,
+              "level": 2,
+              "name": "Šimon Abeles 17.",
+              "id": "šimon-abeles-17",
+              "children": []
+            },
+            {
+              "index": 37,
+              "level": 2,
+              "name": "Šimon Albrecht 18.",
+              "id": "šimon-albrecht-18",
+              "children": []
+            },
+            {
+              "index": 38,
+              "level": 2,
+              "name": "Šimon Abeles 18.",
+              "id": "šimon-abeles-18",
+              "children": []
+            },
+            {
+              "index": 39,
+              "level": 2,
+              "name": "Šimon Albrecht 19.",
+              "id": "šimon-albrecht-19",
+              "children": []
+            },
+            {
+              "index": 40,
+              "level": 2,
+              "name": "Šimon Abeles 19.",
+              "id": "šimon-abeles-19",
+              "children": []
+            },
+            {
+              "index": 41,
+              "level": 2,
+              "name": "Šimon Albrecht 20.",
+              "id": "šimon-albrecht-20",
+              "children": []
+            },
+            {
+              "index": 42,
+              "level": 2,
+              "name": "Šimon Abeles 20.",
+              "id": "šimon-abeles-20",
+              "children": []
+            },
+            {
+              "index": 43,
+              "level": 2,
+              "name": "Šimon Albrecht 21.",
+              "id": "šimon-albrecht-21",
+              "children": []
+            },
+            {
+              "index": 44,
+              "level": 2,
+              "name": "Šimon Abeles 21.",
+              "id": "šimon-abeles-21",
+              "children": []
+            },
+            {
+              "index": 45,
+              "level": 2,
+              "name": "Šimon Albrecht 22.",
+              "id": "šimon-albrecht-22",
+              "children": []
+            },
+            {
+              "index": 46,
+              "level": 2,
+              "name": "Šimon Abeles 22.",
+              "id": "šimon-abeles-22",
+              "children": []
+            },
+            {
+              "index": 47,
+              "level": 2,
+              "name": "Šimon Albrecht 23.",
+              "id": "šimon-albrecht-23",
+              "children": []
+            },
+            {
+              "index": 48,
+              "level": 2,
+              "name": "Šimon Abeles 23.",
+              "id": "šimon-abeles-23",
+              "children": []
+            },
+            {
+              "index": 49,
+              "level": 2,
+              "name": "Šimon Albrecht 24.",
+              "id": "šimon-albrecht-24",
+              "children": []
+            },
+            {
+              "index": 50,
+              "level": 2,
+              "name": "Šimon Abeles 24.",
+              "id": "šimon-abeles-24",
+              "children": []
+            },
+            {
+              "index": 51,
+              "level": 2,
+              "name": "Naposledy Šimon",
+              "id": "naposledy-šimon",
+              "children": []
+            },
+            {
+              "index": 52,
+              "level": 2,
+              "name": "Naposledy Herman",
+              "id": "naposledy-herman",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Veliká novina o hrozném mordu Šimona Abelese",
+      "file": "velika_novina_o_hroznem_mordu_simona_abelese_007.html",
+      "words": 412,
+      "chars": 2788,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 3,
+      "prev": "velika_novina_o_hroznem_mordu_simona_abelese_006.html",
+      "next": "velika_novina_o_hroznem_mordu_simona_abelese_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámka",
+              "id": "poznámka",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Veliká novina o hrozném mordu Šimona Abelese",
+      "file": "velika_novina_o_hroznem_mordu_simona_abelese_008.html",
+      "words": 7921,
+      "chars": 53396,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 4,
+      "prev": "velika_novina_o_hroznem_mordu_simona_abelese_007.html",
+      "next": "velika_novina_o_hroznem_mordu_simona_abelese_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Doslov",
+              "id": "doslov",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Případ Šimona Abelese",
+                  "id": "případ-šimona-abelese",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "Z náboženské nenávisti, z náboženské lásky",
+                  "id": "znáboženské-nenávisti-znáboženské-lásky",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "Pražská židovská obec v době zvýšeného",
+                  "id": "pražská-židovská-obec-vdobě-zvýšeného",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "Smrt Šimona Abelese a domácí napětí",
+                  "id": "smrt-šimona-abelese-adomácí-napětí",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "Případ Šimona Abelese jako legenda a právní kauza",
+                  "id": "případ-šimona-abelese-jako-legenda-aprávní-kauza",
+                  "children": []
+                },
+                {
+                  "index": 7,
+                  "level": 3,
+                  "name": "Misionáři a pohané",
+                  "id": "misionáři-apohané",
+                  "children": []
+                },
+                {
+                  "index": 8,
+                  "level": 3,
+                  "name": "Židovské konverze",
+                  "id": "židovské-konverze",
+                  "children": []
+                },
+                {
+                  "index": 9,
+                  "level": 3,
+                  "name": "Média v době Šimona Abelese",
+                  "id": "média-vdobě-šimona-abelese",
+                  "children": []
+                },
+                {
+                  "index": 10,
+                  "level": 3,
+                  "name": "Šimon Abeles den po dni",
+                  "id": "šimon-abeles-den-ponbspdni",
+                  "children": []
+                },
+                {
+                  "index": 11,
+                  "level": 3,
+                  "name": "Kdo byl Šimon Abeles a ti druzí",
+                  "id": "kdo-byl-šimon-abeles-ati-druzí",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Veliká novina o hrozném mordu Šimona Abelese",
+      "file": "velika_novina_o_hroznem_mordu_simona_abelese_009.html",
+      "words": 601,
+      "chars": 4135,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 5,
+      "prev": "velika_novina_o_hroznem_mordu_simona_abelese_008.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Použitá literatura",
+              "id": "použitá-literatura",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 145,
+      "chars": 932,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "velika_novina_o_hroznem_mordu_simona_abelese_009.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 104905,
+      "chars": 654489,
+      "ideas": 3511
+    },
+    "chapters": {
+      "words": 104749,
+      "chars": 653491,
+      "ideas": 3492
+    }
+  }
+}
