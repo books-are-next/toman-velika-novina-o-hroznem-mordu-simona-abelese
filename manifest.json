@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-velika-novina-o-hroznem-mordu-simona-abelese-ff1edfb",
-  "revision": "ff1edfb",
+  "identifier": "toman-velika-novina-o-hroznem-mordu-simona-abelese-7bd5b03",
+  "revision": "7bd5b03",
   "readingOrder": [
     "promo.html",
     "velika_novina_o_hroznem_mordu_simona_abelese_005.html",
@@ -17,11 +17,11 @@
     "velika_novina_o_hroznem_mordu_simona_abelese_007.html",
     "velika_novina_o_hroznem_mordu_simona_abelese_008.html",
     "velika_novina_o_hroznem_mordu_simona_abelese_009.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:31:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980264931
+    "date": "Thu Jul 07 2022 08:41:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183271590
   },
   "documents": [
     {
@@ -577,7 +577,7 @@
       "role": "chapter",
       "order": 5,
       "prev": "velika_novina_o_hroznem_mordu_simona_abelese_008.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -598,11 +598,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 145,
-      "chars": 932,
+      "chars": 931,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "velika_novina_o_hroznem_mordu_simona_abelese_009.html",
       "next": null,
@@ -619,8 +619,8 @@
   ],
   "totals": {
     "all": {
-      "words": 104905,
-      "chars": 654489,
+      "words": 104904,
+      "chars": 654493,
       "ideas": 3511
     },
     "chapters": {
