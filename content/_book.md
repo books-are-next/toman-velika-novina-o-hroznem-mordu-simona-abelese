@@ -20,7 +20,7 @@ readingOrder:
   - velika_novina_o_hroznem_mordu_simona_abelese_007.html
   - velika_novina_o_hroznem_mordu_simona_abelese_008.html
   - velika_novina_o_hroznem_mordu_simona_abelese_009.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
