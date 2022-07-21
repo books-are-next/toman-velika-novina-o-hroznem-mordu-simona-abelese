@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-velika-novina-o-hroznem-mordu-simona-abelese-fdcbfe5",
-  "revision": "fdcbfe5",
+  "identifier": "toman-velika-novina-o-hroznem-mordu-simona-abelese-b6b691d",
+  "revision": "b6b691d",
   "readingOrder": [
     "promo.html",
     "velika_novina_o_hroznem_mordu_simona_abelese_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:07:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188464645
+    "date": "Thu Jul 21 2022 14:33:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414027903
   },
   "documents": [
     {
@@ -600,7 +600,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 145,
-      "chars": 931,
+      "chars": 932,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -619,8 +619,8 @@
   ],
   "totals": {
     "all": {
-      "words": 104904,
-      "chars": 654493,
+      "words": 104905,
+      "chars": 654489,
       "ideas": 3511
     },
     "chapters": {
