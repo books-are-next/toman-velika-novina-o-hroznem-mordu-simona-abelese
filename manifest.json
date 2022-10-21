@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-velika-novina-o-hroznem-mordu-simona-abelese-de6db57",
-  "revision": "de6db57",
+  "identifier": "toman-velika-novina-o-hroznem-mordu-simona-abelese-9188542",
+  "revision": "9188542",
   "readingOrder": [
     "promo.html",
     "velika_novina_o_hroznem_mordu_simona_abelese_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:00:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417647855
+    "date": "Fri Oct 21 2022 11:45:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352739222
   },
   "documents": [
     {
